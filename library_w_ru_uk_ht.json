@@ -313,7 +313,7 @@
             "EN-HK",
             "EN-TW",
             "EN-RU",
-            "EN-HT"
+            "EN-UK"
          ],
          "about": "An ant collects food for winter while a grasshopper sings but learns a tough lesson at the end of this classic Aesop’s Fable.",
          "genre": [
@@ -1215,7 +1215,9 @@
             "EN-PT",
             "EN-HK",
             "EN-TW",
-            "EN-PS"
+            "EN-PS",
+            "EN-RU",
+            "EN-UK"
          ],
          "about": "A game of hide and seek offers common words for locations.",
          "genre": [
@@ -1352,7 +1354,9 @@
             "EN-BN",
             "EN-PT",
             "EN-HK",
-            "EN-TW"
+            "EN-TW",
+            "EN-RU",
+            "EN-UK"
          ],
          "about": "Dad uses different utensils in the kitchen and makes a mess in process, but the food is delicious.",
          "genre": [
@@ -1555,7 +1559,9 @@
             "EN-TW",
             "EN-PL",
             "EN-UK",
-            "EN-PS"
+            "EN-PS",
+            "EN-RU",
+            "EN-UK"
          ],
          "about": "A girl tries on many clothes that don’t fit before finding the right outfit.",
          "genre": [
@@ -1758,7 +1764,8 @@
             "EN-PL",
             "EN-UK",
             "EN-DR",
-            "EN-PS"
+            "EN-PS",
+            "EN-RU"
          ],
          "about": "A little girl plants a tomato seed and proves to her disbelieving friends and family it will grow.",
          "genre": [
@@ -2095,7 +2102,9 @@
             "EN-PT",
             "EN-HK",
             "EN-TW",
-            "EN-PS"
+            "EN-PS",
+            "EN-RU",
+            "EN-UK"
          ],
          "about": "A group of friends search for a little brother and find a lot of animals along the way.",
          "genre": [
@@ -2291,7 +2300,9 @@
             "EN-BN",
             "EN-PT",
             "EN-HK",
-            "EN-TW"
+            "EN-TW",
+            "EN-RU",
+            "EN-UK"
          ],
          "about": "An inspirational book that suggests getting exercise in many ways.",
          "genre": [
@@ -2623,7 +2634,9 @@
             "EN-PT",
             "EN-HK",
             "EN-TW",
-            "EN-PS"
+            "EN-PS",
+            "EN-RU",
+            "EN-UK"
          ],
          "about": "Reduce, reuse, recycle! Learn how a plastic bottle impacts the environment.",
          "genre": [
@@ -2746,7 +2759,9 @@
             "EN-PT",
             "EN-HK",
             "EN-TW",
-            "EN-PS"
+            "EN-PS",
+            "EN-RU",
+            "EN-UK"
          ],
          "about": "A cheerful story that describes the lifecycle of a potato and favorite foods that come from potatoes.",
          "genre": [
@@ -3073,7 +3088,9 @@
             "EN-PT",
             "EN-HK",
             "EN-TW",
-            "EN-PS"
+            "EN-PS",
+            "EN-RU",
+            "EN-UK"
          ],
          "about": "Learn about what giant pandas eat, how they became endangered, and what humans are doing to help.",
          "genre": [
@@ -3407,7 +3424,9 @@
             "EN-PT",
             "EN-HK",
             "EN-TW",
-            "EN-PS"
+            "EN-PS",
+            "EN-RU",
+            "EN-UK"
          ],
          "about": "Read about the world’s largest animal and their life at sea.",
          "genre": [
@@ -3848,7 +3867,9 @@
             "EN-PT",
             "EN-HK",
             "EN-TW",
-            "EN-PS"
+            "EN-PS",
+            "EN-RU",
+            "EN-UK"
          ],
          "about": "A tale where the wind brings musicians from the sun to introduce music to the earth.",
          "genre": [
@@ -4726,7 +4747,9 @@
             "EN-BN",
             "EN-PT",
             "EN-HK",
-            "EN-TW"
+            "EN-TW",
+            "EN-RU",
+            "EN-UK"
          ],
          "about": "Different colors of the rainbow, plus grey, black, silver and gold.",
          "genre": [
@@ -4836,7 +4859,9 @@
             "EN-PT",
             "EN-HK",
             "EN-TW",
-            "EN-PS"
+            "EN-PS",
+            "EN-RU",
+            "EN-UK"
          ],
          "about": "Numbers up to twenty, associating the written word with the numerical digit.",
          "genre": [
@@ -5205,7 +5230,9 @@
             "EN-PT",
             "EN-HK",
             "EN-TW",
-            "EN-PS"
+            "EN-PS",
+            "EN-RU",
+            "EN-UK"
          ],
          "about": "A young artist uses a magic paintbrush to help everyone in need and finds a clever way to say good bye to a greedy man.",
          "genre": [
@@ -6042,7 +6069,9 @@
             "EN-BN",
             "EN-PT",
             "EN-HK",
-            "EN-TW"
+            "EN-TW",
+            "EN-RU",
+            "EN-UK"
          ],
          "about": "Different objects from home and opposite adjectives.",
          "genre": [
@@ -6153,7 +6182,9 @@
             "EN-BN",
             "EN-PT",
             "EN-HK",
-            "EN-TW"
+            "EN-TW",
+            "EN-RU",
+            "EN-UK"
          ],
          "about": "Different parts of the body, using numbers to describe how many there are of each part.",
          "genre": [
@@ -6264,7 +6295,9 @@
             "EN-PT",
             "EN-HK",
             "EN-TW",
-            "EN-PS"
+            "EN-PS",
+            "EN-RU",
+            "EN-UK"
          ],
          "about": "Different types of breakfast foods and and how they taste.",
          "genre": [
@@ -6747,7 +6780,8 @@
             "EN-TW",
             "EN-PL",
             "EN-UK",
-            "EN-PS"
+            "EN-PS",
+            "EN-RU"
          ],
          "about": "Different common farm animals.",
          "genre": [
@@ -6918,7 +6952,9 @@
             "EN-PT",
             "EN-HK",
             "EN-TW",
-            "EN-PS"
+            "EN-PS",
+            "EN-RU",
+            "EN-UK"
          ],
          "about": "Different types of fast food.",
          "genre": [
@@ -7161,7 +7197,9 @@
             "EN-TW",
             "EN-PL",
             "EN-UK",
-            "EN-PS"
+            "EN-PS",
+            "EN-RU",
+            "EN-UK"
          ],
          "about": "Common jobs that people do.",
          "genre": [
@@ -7272,7 +7310,9 @@
             "EN-PT",
             "EN-HK",
             "EN-TW",
-            "EN-PS"
+            "EN-PS",
+            "EN-RU",
+            "EN-UK"
          ],
          "about": "Relationships with members of the family.",
          "genre": [
@@ -7624,7 +7664,9 @@
             "EN-PT",
             "EN-HK",
             "EN-TW",
-            "EN-PS"
+            "EN-PS",
+            "EN-RU",
+            "EN-UK"
          ],
          "about": "Different types of sea animals and what they do.",
          "genre": [
@@ -8157,7 +8199,9 @@
             "EN-PT",
             "EN-HK",
             "EN-TW",
-            "EN-PS"
+            "EN-PS",
+            "EN-RU",
+            "EN-UK"
          ],
          "about": "Different hobbies or activities kids like to do.",
          "genre": [
@@ -8268,7 +8312,9 @@
             "EN-PT",
             "EN-HK",
             "EN-TW",
-            "EN-PS"
+            "EN-PS",
+            "EN-RU",
+            "EN-UK"
          ],
          "about": "Different common places in the community",
          "genre": [
