@@ -15740,12 +15740,12 @@
          "set": 11,
          "path": "11-ThunderAndLightning",
          "sortkey": {
-               "EN": 7,
-               "ES": 7
+               "EN": 100,
+               "ES": 100
          },
          "title": {
-               "EN": "ThunderAndLightning_EN",
-               "ES": ""
+               "EN": "Thunder and Lightning",
+               "ES": "Trueno y Relámpago"
          },
          "level": {
                "EN": "",
@@ -15759,7 +15759,7 @@
          "versions": [
                "EN-ES"
          ],
-         "about": "",
+         "about": "An African folktale reveals how a long-ago family quarrel still echoes across the sky in flashes of light and rolling thunder.",
          "genre": [],
          "subjects": [],
          "grammar": [],
@@ -15785,12 +15785,12 @@
          "set": 11,
          "path": "11-KingMidas",
          "sortkey": {
-               "EN": 8,
-               "ES": 8
+               "EN": 101,
+               "ES": 101
          },
          "title": {
-               "EN": "KingMidas_EN",
-               "ES": ""
+               "EN": "King Midas",
+               "ES": "Rey Midas"
          },
          "level": {
                "EN": "",
@@ -15804,7 +15804,7 @@
          "versions": [
                "EN-ES"
          ],
-         "about": "",
+         "about": "A king wants everything he touches to turn to gold, until he realized that gold does not buy him happiness, in this timeless Greek myth.",
          "genre": [],
          "subjects": [],
          "grammar": [],
@@ -15830,12 +15830,12 @@
          "set": 12,
          "path": "12-VenusFlytrap",
          "sortkey": {
-               "EN": 9,
-               "ES": 9
+               "EN": 102,
+               "ES": 102
          },
          "title": {
-               "EN": "VenusFlytrap_EN",
-               "ES": ""
+               "EN": "Venus Flytrap",
+               "ES": "¡La atrapamoscas de Venus"
          },
          "level": {
                "EN": "",
@@ -15849,7 +15849,7 @@
          "versions": [
                "EN-ES"
          ],
-         "about": "",
+         "about": "Peer into the world of a plant that traps its food—and discover the surprising behaviors that blur the line between plant and animal.",
          "genre": [],
          "subjects": [],
          "grammar": [],
@@ -15875,12 +15875,12 @@
          "set": 11,
          "path": "11-Hummingbird",
          "sortkey": {
-               "EN": 10,
-               "ES": 10
+               "EN": 103,
+               "ES": 103
          },
          "title": {
-               "EN": "Hummingbird_EN",
-               "ES": ""
+               "EN": "Hummingbird",
+               "ES": "El colibrí"
          },
          "level": {
                "EN": "",
@@ -15894,7 +15894,7 @@
          "versions": [
                "EN-ES"
          ],
-         "about": "",
+         "about": "A visit from a hummingbird carries a hidden meaning—revealed in this lyrical story inspired by a Guatemalan folktale.",
          "genre": [],
          "subjects": [],
          "grammar": [],
@@ -15920,12 +15920,12 @@
          "set": 12,
          "path": "12-Jellyfish",
          "sortkey": {
-               "EN": 11,
-               "ES": 11
+               "EN": 104,
+               "ES": 104
          },
          "title": {
-               "EN": "Jellyfish_EN",
-               "ES": ""
+               "EN": "Jellyfish – Earth’s Oldest Swimmers",
+               "ES": "Las medusas"
          },
          "level": {
                "EN": "",
@@ -15939,7 +15939,7 @@
          "versions": [
                "EN-ES"
          ],
-         "about": "",
+         "about": "Drift through the oceans with jellyfish, mysterious creatures with astonishing abilities that have survived for hundreds of millions of years.",
          "genre": [],
          "subjects": [],
          "grammar": [],
@@ -15965,12 +15965,12 @@
          "set": 11,
          "path": "11-TheBoyWhoCriedWolf",
          "sortkey": {
-               "EN": 12,
-               "ES": 12
+               "EN": 105,
+               "ES": 105
          },
          "title": {
-               "EN": "BoyWhoCriedWolf_EN",
-               "ES": ""
+               "EN": "The Boy Who Cried Wolf",
+               "ES": "¡El niño que gritó “¡Lobo!”"
          },
          "level": {
                "EN": "",
@@ -15984,7 +15984,7 @@
          "versions": [
                "EN-ES"
          ],
-         "about": "",
+         "about": "A bored shepherd boy cries “Wolf” for fun, but discovers that when the real wolf comes, no one believes him, in this classic Aesop’s fable.",
          "genre": [],
          "subjects": [],
          "grammar": [],
@@ -16010,12 +16010,12 @@
          "set": 12,
          "path": "12-Zoom",
          "sortkey": {
-               "EN": 13,
-               "ES": 13
+               "EN": 106,
+               "ES": 106
          },
          "title": {
-               "EN": "Zoom_EN",
-               "ES": ""
+               "EN": "Zoom",
+               "ES": "Zoom"
          },
          "level": {
                "EN": "",
@@ -16029,7 +16029,7 @@
          "versions": [
                "EN-ES"
          ],
-         "about": "",
+         "about": "Zip around with Zoom who loves only to move fast and play—until one special day changes how he feels about reading.",
          "genre": [],
          "subjects": [],
          "grammar": [],
@@ -16055,12 +16055,12 @@
          "set": 12,
          "path": "12-YakOnAYacht",
          "sortkey": {
-               "EN": 14,
-               "ES": 14
+               "EN": 107,
+               "ES": 107
          },
          "title": {
-               "EN": "YakOnAYacht_EN",
-               "ES": ""
+               "EN": "Yak on a Yacht",
+               "ES": "Un yak en un yate"
          },
          "level": {
                "EN": "",
@@ -16074,7 +16074,7 @@
          "versions": [
                "EN-ES"
          ],
-         "about": "",
+         "about": "Set sail with Jack the Yak on a globe-spanning adventure that explores continents, cultures, and a discovery of what really matters.",
          "genre": [],
          "subjects": [],
          "grammar": [],
