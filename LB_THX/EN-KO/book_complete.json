@@ -1,0 +1,944 @@
+{
+    "data": [
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "T h",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "thumbnail.jpg",
+            "page_no": "0",
+            "page_type": "meta",
+            "page_type_id": 1,
+            "sw_name": "Thumbnail",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_THX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"TH  th\",\n        \"ES\": \"TH  th\",\n        \"ZH\": \"TH  th\",\n        \"VI\": \"TH  th\",\n        \"AR\": \"TH  th\",\n        \"KO\": \"TH  th\",\n        \"DA\": \"TH  th\",\n        \"PS\": \"TH  th\",\n        \"TL\": \"TH  th\",\n        \"BN\": \"TH  th\",\n        \"PT\": \"TH  th\",\n        \"HK\": \"TH  th\",\n        \"TW\": \"TH  th\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "T h",
+            "en_trans": "t h_t h",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_THX_cover_p1.png",
+            "page_no": "1",
+            "page_type": "title",
+            "page_type_id": 3,
+            "sw_name": "Title",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "t h_t h",
+            "trans_text": "T h",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_THX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"TH  th\",\n        \"ES\": \"TH  th\",\n        \"ZH\": \"TH  th\",\n        \"VI\": \"TH  th\",\n        \"AR\": \"TH  th\",\n        \"KO\": \"TH  th\",\n        \"DA\": \"TH  th\",\n        \"PS\": \"TH  th\",\n        \"TL\": \"TH  th\",\n        \"BN\": \"TH  th\",\n        \"PT\": \"TH  th\",\n        \"HK\": \"TH  th\",\n        \"TW\": \"TH  th\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_1.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.24",
+                    "word": "t h",
+                    "start": "0"
+                },
+                {
+                    "end": "2.24",
+                    "word": "t h",
+                    "start": "2.24"
+                }
+            ],
+            "trans_vocab_audio": "KO_dictionary_1.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.38",
+                    "word": "t h",
+                    "start": "0"
+                },
+                {
+                    "end": "4.76",
+                    "word": "t h",
+                    "start": "2.38"
+                }
+            ],
+            "nar_audio_en": "THX_narr_TH_p1.mp3",
+            "nar_audio_trans": "KO_sample_1.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "t h",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "T h",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "thin",
+            "en_trans": "thin_얇은",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_THX_thin_p2.png",
+            "page_no": "2",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "얇은_thin",
+            "trans_text": "얇은",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_THX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"TH  th\",\n        \"ES\": \"TH  th\",\n        \"ZH\": \"TH  th\",\n        \"VI\": \"TH  th\",\n        \"AR\": \"TH  th\",\n        \"KO\": \"TH  th\",\n        \"DA\": \"TH  th\",\n        \"PS\": \"TH  th\",\n        \"TL\": \"TH  th\",\n        \"BN\": \"TH  th\",\n        \"PT\": \"TH  th\",\n        \"HK\": \"TH  th\",\n        \"TW\": \"TH  th\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_2.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.95",
+                    "word": "thin",
+                    "start": "0"
+                },
+                {
+                    "end": "1.95",
+                    "word": "thin",
+                    "start": "1.95"
+                }
+            ],
+            "trans_vocab_audio": "KO_dictionary_2.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.756",
+                    "word": "얇은",
+                    "start": "0"
+                },
+                {
+                    "end": "3.52",
+                    "word": "얇은",
+                    "start": "1.76"
+                }
+            ],
+            "nar_audio_en": "THX_narr_thin_p2.mp3",
+            "nar_audio_trans": "KO_sample_2.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "얇은",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "thin",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "throne",
+            "en_trans": "throne_왕좌",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_THX_throne_p3.png",
+            "page_no": "3",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "왕좌_throne",
+            "trans_text": "왕좌",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_THX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"TH  th\",\n        \"ES\": \"TH  th\",\n        \"ZH\": \"TH  th\",\n        \"VI\": \"TH  th\",\n        \"AR\": \"TH  th\",\n        \"KO\": \"TH  th\",\n        \"DA\": \"TH  th\",\n        \"PS\": \"TH  th\",\n        \"TL\": \"TH  th\",\n        \"BN\": \"TH  th\",\n        \"PT\": \"TH  th\",\n        \"HK\": \"TH  th\",\n        \"TW\": \"TH  th\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_3.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.4",
+                    "word": "throne",
+                    "start": "0"
+                },
+                {
+                    "end": "2.4",
+                    "word": "throne",
+                    "start": "2.4"
+                }
+            ],
+            "trans_vocab_audio": "KO_dictionary_3.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.828",
+                    "word": "왕좌",
+                    "start": "0"
+                },
+                {
+                    "end": "3.66",
+                    "word": "왕좌",
+                    "start": "1.83"
+                }
+            ],
+            "nar_audio_en": "THX_narr_throne_p3.mp3",
+            "nar_audio_trans": "KO_sample_3.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "왕좌",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "throne",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "three",
+            "en_trans": "three_셋",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_THX_three_p4.png",
+            "page_no": "4",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "셋_three",
+            "trans_text": "셋",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_THX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"TH  th\",\n        \"ES\": \"TH  th\",\n        \"ZH\": \"TH  th\",\n        \"VI\": \"TH  th\",\n        \"AR\": \"TH  th\",\n        \"KO\": \"TH  th\",\n        \"DA\": \"TH  th\",\n        \"PS\": \"TH  th\",\n        \"TL\": \"TH  th\",\n        \"BN\": \"TH  th\",\n        \"PT\": \"TH  th\",\n        \"HK\": \"TH  th\",\n        \"TW\": \"TH  th\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_4.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.01",
+                    "word": "three",
+                    "start": "0"
+                },
+                {
+                    "end": "2.01",
+                    "word": "three",
+                    "start": "2.01"
+                }
+            ],
+            "trans_vocab_audio": "KO_dictionary_4.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.444",
+                    "word": "셋",
+                    "start": "0"
+                },
+                {
+                    "end": "2.88",
+                    "word": "셋",
+                    "start": "1.44"
+                }
+            ],
+            "nar_audio_en": "THX_narr_three_p4.mp3",
+            "nar_audio_trans": "KO_sample_4.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "셋",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "three",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "thumb",
+            "en_trans": "thumb_엄지손가락",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_THX_thumb_p5.png",
+            "page_no": "5",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "엄지손가락_thumb",
+            "trans_text": "엄지손가락",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_THX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"TH  th\",\n        \"ES\": \"TH  th\",\n        \"ZH\": \"TH  th\",\n        \"VI\": \"TH  th\",\n        \"AR\": \"TH  th\",\n        \"KO\": \"TH  th\",\n        \"DA\": \"TH  th\",\n        \"PS\": \"TH  th\",\n        \"TL\": \"TH  th\",\n        \"BN\": \"TH  th\",\n        \"PT\": \"TH  th\",\n        \"HK\": \"TH  th\",\n        \"TW\": \"TH  th\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_5.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.24",
+                    "word": "thumb",
+                    "start": "0"
+                },
+                {
+                    "end": "2.24",
+                    "word": "thumb",
+                    "start": "2.24"
+                }
+            ],
+            "trans_vocab_audio": "KO_dictionary_5.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.26",
+                    "word": "엄지손가락",
+                    "start": "0"
+                },
+                {
+                    "end": "4.52",
+                    "word": "엄지손가락",
+                    "start": "2.26"
+                }
+            ],
+            "nar_audio_en": "THX_narr_thumb_p5.mp3",
+            "nar_audio_trans": "KO_sample_5.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "엄지손가락",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "thumb",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "throat",
+            "en_trans": "throat_목구멍",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_THX_throat_p6.png",
+            "page_no": "6",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "목구멍_throat",
+            "trans_text": "목구멍",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_THX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"TH  th\",\n        \"ES\": \"TH  th\",\n        \"ZH\": \"TH  th\",\n        \"VI\": \"TH  th\",\n        \"AR\": \"TH  th\",\n        \"KO\": \"TH  th\",\n        \"DA\": \"TH  th\",\n        \"PS\": \"TH  th\",\n        \"TL\": \"TH  th\",\n        \"BN\": \"TH  th\",\n        \"PT\": \"TH  th\",\n        \"HK\": \"TH  th\",\n        \"TW\": \"TH  th\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_6.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.01",
+                    "word": "throat",
+                    "start": "0"
+                },
+                {
+                    "end": "2.01",
+                    "word": "throat",
+                    "start": "2.01"
+                }
+            ],
+            "trans_vocab_audio": "KO_dictionary_6.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.828",
+                    "word": "목구멍",
+                    "start": "0"
+                },
+                {
+                    "end": "3.66",
+                    "word": "목구멍",
+                    "start": "1.83"
+                }
+            ],
+            "nar_audio_en": "THX_narr_throat_p6.mp3",
+            "nar_audio_trans": "KO_sample_6.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "목구멍",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "throat",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "thorn",
+            "en_trans": "thorn_가시",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_THX_thorn_p7.png",
+            "page_no": "7",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "가시_thorn",
+            "trans_text": "가시",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_THX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"TH  th\",\n        \"ES\": \"TH  th\",\n        \"ZH\": \"TH  th\",\n        \"VI\": \"TH  th\",\n        \"AR\": \"TH  th\",\n        \"KO\": \"TH  th\",\n        \"DA\": \"TH  th\",\n        \"PS\": \"TH  th\",\n        \"TL\": \"TH  th\",\n        \"BN\": \"TH  th\",\n        \"PT\": \"TH  th\",\n        \"HK\": \"TH  th\",\n        \"TW\": \"TH  th\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_7.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.01",
+                    "word": "thorn",
+                    "start": "0"
+                },
+                {
+                    "end": "2.01",
+                    "word": "thorn",
+                    "start": "2.01"
+                }
+            ],
+            "trans_vocab_audio": "KO_dictionary_7.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.756",
+                    "word": "가시",
+                    "start": "0"
+                },
+                {
+                    "end": "3.52",
+                    "word": "가시",
+                    "start": "1.76"
+                }
+            ],
+            "nar_audio_en": "THX_narr_thorn_p7.mp3",
+            "nar_audio_trans": "KO_sample_7.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "가시",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "thorn",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "thorn_가시,thin_얇은,throne_왕좌,three_셋",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_THX_throne_quiz.png",
+            "page_no": "8",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "throne_왕좌",
+            "trans_en": "thorn_가시,thin_얇은,throne_왕좌,three_셋",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "KO_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "이 그림은 무엇입니까?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_THX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"TH  th\",\n        \"ES\": \"TH  th\",\n        \"ZH\": \"TH  th\",\n        \"VI\": \"TH  th\",\n        \"AR\": \"TH  th\",\n        \"KO\": \"TH  th\",\n        \"DA\": \"TH  th\",\n        \"PS\": \"TH  th\",\n        \"TL\": \"TH  th\",\n        \"BN\": \"TH  th\",\n        \"PT\": \"TH  th\",\n        \"HK\": \"TH  th\",\n        \"TW\": \"TH  th\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_8.mp3",
+            "trans_vocab_audio": "KO_choice_8.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.01",
+                    "word": "thorn",
+                    "start": "0"
+                },
+                {
+                    "end": "3.96",
+                    "word": "thin",
+                    "start": "2.01"
+                },
+                {
+                    "end": "6.36",
+                    "word": "throne",
+                    "start": "3.96"
+                },
+                {
+                    "end": "8.36",
+                    "word": "three",
+                    "start": "6.36"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.756",
+                    "word": "가시",
+                    "start": "0"
+                },
+                {
+                    "end": "3.512",
+                    "word": "얇은",
+                    "start": "1.756"
+                },
+                {
+                    "end": "5.34",
+                    "word": "왕좌",
+                    "start": "3.512"
+                },
+                {
+                    "end": "6.784",
+                    "word": "셋",
+                    "start": "5.34"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "thin_얇은,throat_목구멍,thorn_가시,thumb_엄지손가락",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_THX_thorn_quiz.png",
+            "page_no": "9",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "thorn_가시",
+            "trans_en": "thin_얇은,throat_목구멍,thorn_가시,thumb_엄지손가락",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "KO_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "이 그림은 무엇입니까?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_THX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"TH  th\",\n        \"ES\": \"TH  th\",\n        \"ZH\": \"TH  th\",\n        \"VI\": \"TH  th\",\n        \"AR\": \"TH  th\",\n        \"KO\": \"TH  th\",\n        \"DA\": \"TH  th\",\n        \"PS\": \"TH  th\",\n        \"TL\": \"TH  th\",\n        \"BN\": \"TH  th\",\n        \"PT\": \"TH  th\",\n        \"HK\": \"TH  th\",\n        \"TW\": \"TH  th\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_9.mp3",
+            "trans_vocab_audio": "KO_choice_9.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.95",
+                    "word": "thin",
+                    "start": "0"
+                },
+                {
+                    "end": "3.96",
+                    "word": "throat",
+                    "start": "1.95"
+                },
+                {
+                    "end": "5.97",
+                    "word": "thorn",
+                    "start": "3.96"
+                },
+                {
+                    "end": "8.21",
+                    "word": "thumb",
+                    "start": "5.97"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.756",
+                    "word": "얇은",
+                    "start": "0"
+                },
+                {
+                    "end": "3.584",
+                    "word": "목구멍",
+                    "start": "1.756"
+                },
+                {
+                    "end": "5.34",
+                    "word": "가시",
+                    "start": "3.584"
+                },
+                {
+                    "end": "7.599",
+                    "word": "엄지손가락",
+                    "start": "5.34"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "throat_목구멍,thin_얇은,thumb_엄지손가락,throne_왕좌",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_THX_thin_quiz.png",
+            "page_no": "10",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "thin_얇은",
+            "trans_en": "throat_목구멍,thin_얇은,thumb_엄지손가락,throne_왕좌",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "KO_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "이 그림은 무엇입니까?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_THX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"TH  th\",\n        \"ES\": \"TH  th\",\n        \"ZH\": \"TH  th\",\n        \"VI\": \"TH  th\",\n        \"AR\": \"TH  th\",\n        \"KO\": \"TH  th\",\n        \"DA\": \"TH  th\",\n        \"PS\": \"TH  th\",\n        \"TL\": \"TH  th\",\n        \"BN\": \"TH  th\",\n        \"PT\": \"TH  th\",\n        \"HK\": \"TH  th\",\n        \"TW\": \"TH  th\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_10.mp3",
+            "trans_vocab_audio": "KO_choice_10.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.01",
+                    "word": "throat",
+                    "start": "0"
+                },
+                {
+                    "end": "3.96",
+                    "word": "thin",
+                    "start": "2.01"
+                },
+                {
+                    "end": "6.2",
+                    "word": "thumb",
+                    "start": "3.96"
+                },
+                {
+                    "end": "8.6",
+                    "word": "throne",
+                    "start": "6.2"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.828",
+                    "word": "목구멍",
+                    "start": "0"
+                },
+                {
+                    "end": "3.584",
+                    "word": "얇은",
+                    "start": "1.828"
+                },
+                {
+                    "end": "5.844",
+                    "word": "엄지손가락",
+                    "start": "3.584"
+                },
+                {
+                    "end": "7.671",
+                    "word": "왕좌",
+                    "start": "5.844"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "throne_왕좌,throat_목구멍,three_셋,thorn_가시",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_THX_throat_quiz.png",
+            "page_no": "11",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "throat_목구멍",
+            "trans_en": "throne_왕좌,throat_목구멍,three_셋,thorn_가시",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "KO_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "이 그림은 무엇입니까?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_THX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"TH  th\",\n        \"ES\": \"TH  th\",\n        \"ZH\": \"TH  th\",\n        \"VI\": \"TH  th\",\n        \"AR\": \"TH  th\",\n        \"KO\": \"TH  th\",\n        \"DA\": \"TH  th\",\n        \"PS\": \"TH  th\",\n        \"TL\": \"TH  th\",\n        \"BN\": \"TH  th\",\n        \"PT\": \"TH  th\",\n        \"HK\": \"TH  th\",\n        \"TW\": \"TH  th\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_11.mp3",
+            "trans_vocab_audio": "KO_choice_11.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.4",
+                    "word": "throne",
+                    "start": "0"
+                },
+                {
+                    "end": "4.4",
+                    "word": "throat",
+                    "start": "2.4"
+                },
+                {
+                    "end": "6.41",
+                    "word": "three",
+                    "start": "4.4"
+                },
+                {
+                    "end": "8.42",
+                    "word": "thorn",
+                    "start": "6.41"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.828",
+                    "word": "왕좌",
+                    "start": "0"
+                },
+                {
+                    "end": "3.656",
+                    "word": "목구멍",
+                    "start": "1.828"
+                },
+                {
+                    "end": "5.1",
+                    "word": "셋",
+                    "start": "3.656"
+                },
+                {
+                    "end": "6.856",
+                    "word": "가시",
+                    "start": "5.1"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "thorn_가시,thumb_엄지손가락,throat_목구멍,thin_얇은",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_THX_thumb_quiz.png",
+            "page_no": "12",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "thumb_엄지손가락",
+            "trans_en": "thorn_가시,thumb_엄지손가락,throat_목구멍,thin_얇은",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "KO_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "이 그림은 무엇입니까?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_THX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"TH  th\",\n        \"ES\": \"TH  th\",\n        \"ZH\": \"TH  th\",\n        \"VI\": \"TH  th\",\n        \"AR\": \"TH  th\",\n        \"KO\": \"TH  th\",\n        \"DA\": \"TH  th\",\n        \"PS\": \"TH  th\",\n        \"TL\": \"TH  th\",\n        \"BN\": \"TH  th\",\n        \"PT\": \"TH  th\",\n        \"HK\": \"TH  th\",\n        \"TW\": \"TH  th\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_12.mp3",
+            "trans_vocab_audio": "KO_choice_12.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.01",
+                    "word": "thorn",
+                    "start": "0"
+                },
+                {
+                    "end": "4.25",
+                    "word": "thumb",
+                    "start": "2.01"
+                },
+                {
+                    "end": "6.25",
+                    "word": "throat",
+                    "start": "4.25"
+                },
+                {
+                    "end": "8.21",
+                    "word": "thin",
+                    "start": "6.25"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.756",
+                    "word": "가시",
+                    "start": "0"
+                },
+                {
+                    "end": "4.016",
+                    "word": "엄지손가락",
+                    "start": "1.756"
+                },
+                {
+                    "end": "5.844",
+                    "word": "목구멍",
+                    "start": "4.016"
+                },
+                {
+                    "end": "7.599",
+                    "word": "얇은",
+                    "start": "5.844"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "three_셋,thorn_가시,thin_얇은,throne_왕좌",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_THX_three_quiz.png",
+            "page_no": "13",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "three_셋",
+            "trans_en": "three_셋,thorn_가시,thin_얇은,throne_왕좌",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "KO_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "이 그림은 무엇입니까?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_THX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"TH  th\",\n        \"ES\": \"TH  th\",\n        \"ZH\": \"TH  th\",\n        \"VI\": \"TH  th\",\n        \"AR\": \"TH  th\",\n        \"KO\": \"TH  th\",\n        \"DA\": \"TH  th\",\n        \"PS\": \"TH  th\",\n        \"TL\": \"TH  th\",\n        \"BN\": \"TH  th\",\n        \"PT\": \"TH  th\",\n        \"HK\": \"TH  th\",\n        \"TW\": \"TH  th\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_13.mp3",
+            "trans_vocab_audio": "KO_choice_13.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.01",
+                    "word": "three",
+                    "start": "0"
+                },
+                {
+                    "end": "4.01",
+                    "word": "thorn",
+                    "start": "2.01"
+                },
+                {
+                    "end": "5.97",
+                    "word": "thin",
+                    "start": "4.01"
+                },
+                {
+                    "end": "8.36",
+                    "word": "throne",
+                    "start": "5.97"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.444",
+                    "word": "셋",
+                    "start": "0"
+                },
+                {
+                    "end": "3.2",
+                    "word": "가시",
+                    "start": "1.444"
+                },
+                {
+                    "end": "4.956",
+                    "word": "얇은",
+                    "start": "3.2"
+                },
+                {
+                    "end": "6.784",
+                    "word": "왕좌",
+                    "start": "4.956"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "Cynthia Harrison Barbera||Translator||StoryWorld & Pixabay",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_THX_cover_p1.png",
+            "page_no": "14",
+            "page_type": "credits",
+            "page_type_id": 14,
+            "sw_name": "Credits",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_THX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"TH  th\",\n        \"ES\": \"TH  th\",\n        \"ZH\": \"TH  th\",\n        \"VI\": \"TH  th\",\n        \"AR\": \"TH  th\",\n        \"KO\": \"TH  th\",\n        \"DA\": \"TH  th\",\n        \"PS\": \"TH  th\",\n        \"TL\": \"TH  th\",\n        \"BN\": \"TH  th\",\n        \"PT\": \"TH  th\",\n        \"HK\": \"TH  th\",\n        \"TW\": \"TH  th\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": [
+                "Written and Narrated by:Cynthia Harrison Barbera",
+                "Translated by:Min Jung Jang, Julie Gochman",
+                "Illustrated by:StoryWorld & Pixabay"
+            ],
+            "credit_data_trans": [
+                "작성자 및 내레이션:Cynthia Harrison Barbera",
+                "번역한 사람:Min Jung Jang, Julie Gochman",
+                "일러스트 작성자:StoryWorld & Pixabay"
+            ],
+            "book_name": "LB_THX"
+        }
+    ]
+}

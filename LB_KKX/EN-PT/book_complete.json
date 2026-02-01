@@ -1,0 +1,944 @@
+{
+    "data": [
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "K k",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "thumbnail.jpg",
+            "page_no": "0",
+            "page_type": "meta",
+            "page_type_id": 1,
+            "sw_name": "Thumbnail",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_KKX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"K k\",\n        \"ES\": \"K k\",\n        \"ZH\": \"K k\",\n        \"VI\": \"K k\",\n        \"AR\": \"K k\",\n        \"KO\": \"K k\",\n        \"DA\": \"K k\",\n        \"PS\": \"K k\",\n        \"TL\": \"K k\",\n        \"BN\": \"K k\",\n        \"PT\": \"K k\",\n        \"HK\": \"K k\",\n        \"TW\": \"K k\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "K k",
+            "en_trans": "k k_k k",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_KKX_cover_p1.png",
+            "page_no": "1",
+            "page_type": "title",
+            "page_type_id": 3,
+            "sw_name": "Title",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "k k_k k",
+            "trans_text": "K k",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_KKX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"K k\",\n        \"ES\": \"K k\",\n        \"ZH\": \"K k\",\n        \"VI\": \"K k\",\n        \"AR\": \"K k\",\n        \"KO\": \"K k\",\n        \"DA\": \"K k\",\n        \"PS\": \"K k\",\n        \"TL\": \"K k\",\n        \"BN\": \"K k\",\n        \"PT\": \"K k\",\n        \"HK\": \"K k\",\n        \"TW\": \"K k\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_1.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.64",
+                    "word": "k k",
+                    "start": "0"
+                },
+                {
+                    "end": "2.64",
+                    "word": "k k",
+                    "start": "2.64"
+                }
+            ],
+            "trans_vocab_audio": "PT_dictionary_1.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.666",
+                    "word": "k k",
+                    "start": "0"
+                },
+                {
+                    "end": "3.34",
+                    "word": "k k",
+                    "start": "1.67"
+                }
+            ],
+            "nar_audio_en": "KKX_narr_Kk_p1.mp3",
+            "nar_audio_trans": "PT_sample_1.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "k k",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "K K",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "king",
+            "en_trans": "king_rei",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_KKX_king_p2.png",
+            "page_no": "2",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "rei_king",
+            "trans_text": "rei",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_KKX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"K k\",\n        \"ES\": \"K k\",\n        \"ZH\": \"K k\",\n        \"VI\": \"K k\",\n        \"AR\": \"K k\",\n        \"KO\": \"K k\",\n        \"DA\": \"K k\",\n        \"PS\": \"K k\",\n        \"TL\": \"K k\",\n        \"BN\": \"K k\",\n        \"PT\": \"K k\",\n        \"HK\": \"K k\",\n        \"TW\": \"K k\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_2.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.57",
+                    "word": "king",
+                    "start": "0"
+                },
+                {
+                    "end": "1.57",
+                    "word": "king",
+                    "start": "1.57"
+                }
+            ],
+            "trans_vocab_audio": "PT_dictionary_2.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.301",
+                    "word": "rei",
+                    "start": "0"
+                },
+                {
+                    "end": "2.6",
+                    "word": "rei",
+                    "start": "1.3"
+                }
+            ],
+            "nar_audio_en": "KKX_narr_king_p2.mp3",
+            "nar_audio_trans": "PT_sample_2.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "rei",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "king",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "kick",
+            "en_trans": "kick_chute",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_KKX_kick_p3.png",
+            "page_no": "3",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "chute_kick",
+            "trans_text": "chute",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_KKX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"K k\",\n        \"ES\": \"K k\",\n        \"ZH\": \"K k\",\n        \"VI\": \"K k\",\n        \"AR\": \"K k\",\n        \"KO\": \"K k\",\n        \"DA\": \"K k\",\n        \"PS\": \"K k\",\n        \"TL\": \"K k\",\n        \"BN\": \"K k\",\n        \"PT\": \"K k\",\n        \"HK\": \"K k\",\n        \"TW\": \"K k\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_3.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.36",
+                    "word": "kick",
+                    "start": "0"
+                },
+                {
+                    "end": "1.36",
+                    "word": "kick",
+                    "start": "1.36"
+                }
+            ],
+            "trans_vocab_audio": "PT_dictionary_3.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.666",
+                    "word": "chute",
+                    "start": "0"
+                },
+                {
+                    "end": "3.34",
+                    "word": "chute",
+                    "start": "1.67"
+                }
+            ],
+            "nar_audio_en": "KKX_narr_kick_p3.mp3",
+            "nar_audio_trans": "PT_sample_3.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "chute",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "kick",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "kite",
+            "en_trans": "kite_pipa",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_KKX_kite_p4.png",
+            "page_no": "4",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "pipa_kite",
+            "trans_text": "pipa",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_KKX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"K k\",\n        \"ES\": \"K k\",\n        \"ZH\": \"K k\",\n        \"VI\": \"K k\",\n        \"AR\": \"K k\",\n        \"KO\": \"K k\",\n        \"DA\": \"K k\",\n        \"PS\": \"K k\",\n        \"TL\": \"K k\",\n        \"BN\": \"K k\",\n        \"PT\": \"K k\",\n        \"HK\": \"K k\",\n        \"TW\": \"K k\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_4.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.59",
+                    "word": "kite",
+                    "start": "0"
+                },
+                {
+                    "end": "1.59",
+                    "word": "kite",
+                    "start": "1.59"
+                }
+            ],
+            "trans_vocab_audio": "PT_dictionary_4.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.457",
+                    "word": "pipa",
+                    "start": "0"
+                },
+                {
+                    "end": "2.92",
+                    "word": "pipa",
+                    "start": "1.46"
+                }
+            ],
+            "nar_audio_en": "KKX_narr_kite_p4.mp3",
+            "nar_audio_trans": "PT_sample_4.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "pipa",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "kite",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "key",
+            "en_trans": "key_chave",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_KKX_key_p5.png",
+            "page_no": "5",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "chave_key",
+            "trans_text": "chave",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_KKX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"K k\",\n        \"ES\": \"K k\",\n        \"ZH\": \"K k\",\n        \"VI\": \"K k\",\n        \"AR\": \"K k\",\n        \"KO\": \"K k\",\n        \"DA\": \"K k\",\n        \"PS\": \"K k\",\n        \"TL\": \"K k\",\n        \"BN\": \"K k\",\n        \"PT\": \"K k\",\n        \"HK\": \"K k\",\n        \"TW\": \"K k\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_5.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.43",
+                    "word": "key",
+                    "start": "0"
+                },
+                {
+                    "end": "1.43",
+                    "word": "key",
+                    "start": "1.43"
+                }
+            ],
+            "trans_vocab_audio": "PT_dictionary_5.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.614",
+                    "word": "chave",
+                    "start": "0"
+                },
+                {
+                    "end": "3.22",
+                    "word": "chave",
+                    "start": "1.61"
+                }
+            ],
+            "nar_audio_en": "KKX_narr_key_p5.mp3",
+            "nar_audio_trans": "PT_sample_5.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "chave",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "key",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "kiss",
+            "en_trans": "kiss_beijo",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_KKX_kiss_p6.png",
+            "page_no": "6",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "beijo_kiss",
+            "trans_text": "beijo",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_KKX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"K k\",\n        \"ES\": \"K k\",\n        \"ZH\": \"K k\",\n        \"VI\": \"K k\",\n        \"AR\": \"K k\",\n        \"KO\": \"K k\",\n        \"DA\": \"K k\",\n        \"PS\": \"K k\",\n        \"TL\": \"K k\",\n        \"BN\": \"K k\",\n        \"PT\": \"K k\",\n        \"HK\": \"K k\",\n        \"TW\": \"K k\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_6.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.54",
+                    "word": "kiss",
+                    "start": "0"
+                },
+                {
+                    "end": "1.54",
+                    "word": "kiss",
+                    "start": "1.54"
+                }
+            ],
+            "trans_vocab_audio": "PT_dictionary_6.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.51",
+                    "word": "beijo",
+                    "start": "0"
+                },
+                {
+                    "end": "3.02",
+                    "word": "beijo",
+                    "start": "1.51"
+                }
+            ],
+            "nar_audio_en": "KKX_narr_kiss_p6.mp3",
+            "nar_audio_trans": "PT_sample_6.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "beijo",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "kiss",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "kitchen",
+            "en_trans": "kitchen_cozinha",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_KKX_kitchen_p7.png",
+            "page_no": "7",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "cozinha_kitchen",
+            "trans_text": "cozinha",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_KKX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"K k\",\n        \"ES\": \"K k\",\n        \"ZH\": \"K k\",\n        \"VI\": \"K k\",\n        \"AR\": \"K k\",\n        \"KO\": \"K k\",\n        \"DA\": \"K k\",\n        \"PS\": \"K k\",\n        \"TL\": \"K k\",\n        \"BN\": \"K k\",\n        \"PT\": \"K k\",\n        \"HK\": \"K k\",\n        \"TW\": \"K k\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_7.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.57",
+                    "word": "kitchen",
+                    "start": "0"
+                },
+                {
+                    "end": "1.57",
+                    "word": "kitchen",
+                    "start": "1.57"
+                }
+            ],
+            "trans_vocab_audio": "PT_dictionary_7.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.614",
+                    "word": "cozinha",
+                    "start": "0"
+                },
+                {
+                    "end": "3.22",
+                    "word": "cozinha",
+                    "start": "1.61"
+                }
+            ],
+            "nar_audio_en": "KKX_narr_kitchen_p7.mp3",
+            "nar_audio_trans": "PT_sample_7.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "cozinha",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "kitchen",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "kiss_beijo,kite_pipa,key_chave,king_rei",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_KKX_king_quiz.png",
+            "page_no": "8",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "king_rei",
+            "trans_en": "kiss_beijo,kite_pipa,key_chave,king_rei",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "PT_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "O que é essa imagem?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_KKX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"K k\",\n        \"ES\": \"K k\",\n        \"ZH\": \"K k\",\n        \"VI\": \"K k\",\n        \"AR\": \"K k\",\n        \"KO\": \"K k\",\n        \"DA\": \"K k\",\n        \"PS\": \"K k\",\n        \"TL\": \"K k\",\n        \"BN\": \"K k\",\n        \"PT\": \"K k\",\n        \"HK\": \"K k\",\n        \"TW\": \"K k\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_8.mp3",
+            "trans_vocab_audio": "PT_choice_8.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.54",
+                    "word": "kiss",
+                    "start": "0"
+                },
+                {
+                    "end": "3.14",
+                    "word": "kite",
+                    "start": "1.54"
+                },
+                {
+                    "end": "4.56",
+                    "word": "key",
+                    "start": "3.14"
+                },
+                {
+                    "end": "6.13",
+                    "word": "king",
+                    "start": "4.56"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.51",
+                    "word": "beijo",
+                    "start": "0"
+                },
+                {
+                    "end": "2.967",
+                    "word": "pipa",
+                    "start": "1.51"
+                },
+                {
+                    "end": "4.581",
+                    "word": "chave",
+                    "start": "2.967"
+                },
+                {
+                    "end": "5.882",
+                    "word": "rei",
+                    "start": "4.581"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "key_chave,kitchen_cozinha,kite_pipa,kick_chute",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_KKX_kick_quiz.png",
+            "page_no": "9",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "kick_chute",
+            "trans_en": "key_chave,kitchen_cozinha,kite_pipa,kick_chute",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "PT_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "O que é essa imagem?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_KKX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"K k\",\n        \"ES\": \"K k\",\n        \"ZH\": \"K k\",\n        \"VI\": \"K k\",\n        \"AR\": \"K k\",\n        \"KO\": \"K k\",\n        \"DA\": \"K k\",\n        \"PS\": \"K k\",\n        \"TL\": \"K k\",\n        \"BN\": \"K k\",\n        \"PT\": \"K k\",\n        \"HK\": \"K k\",\n        \"TW\": \"K k\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_9.mp3",
+            "trans_vocab_audio": "PT_choice_9.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.43",
+                    "word": "key",
+                    "start": "0"
+                },
+                {
+                    "end": "2.99",
+                    "word": "kitchen",
+                    "start": "1.43"
+                },
+                {
+                    "end": "4.59",
+                    "word": "kite",
+                    "start": "2.99"
+                },
+                {
+                    "end": "5.94",
+                    "word": "kick",
+                    "start": "4.59"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.614",
+                    "word": "chave",
+                    "start": "0"
+                },
+                {
+                    "end": "3.228",
+                    "word": "cozinha",
+                    "start": "1.614"
+                },
+                {
+                    "end": "4.686",
+                    "word": "pipa",
+                    "start": "3.228"
+                },
+                {
+                    "end": "6.352",
+                    "word": "chute",
+                    "start": "4.686"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "kiss_beijo,key_chave,kite_pipa,kick_chute",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_KKX_kiss_quiz.png",
+            "page_no": "10",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "kiss_beijo",
+            "trans_en": "kiss_beijo,key_chave,kite_pipa,kick_chute",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "PT_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "O que é essa imagem?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_KKX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"K k\",\n        \"ES\": \"K k\",\n        \"ZH\": \"K k\",\n        \"VI\": \"K k\",\n        \"AR\": \"K k\",\n        \"KO\": \"K k\",\n        \"DA\": \"K k\",\n        \"PS\": \"K k\",\n        \"TL\": \"K k\",\n        \"BN\": \"K k\",\n        \"PT\": \"K k\",\n        \"HK\": \"K k\",\n        \"TW\": \"K k\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_10.mp3",
+            "trans_vocab_audio": "PT_choice_10.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.54",
+                    "word": "kiss",
+                    "start": "0"
+                },
+                {
+                    "end": "2.97",
+                    "word": "key",
+                    "start": "1.54"
+                },
+                {
+                    "end": "4.56",
+                    "word": "kite",
+                    "start": "2.97"
+                },
+                {
+                    "end": "5.92",
+                    "word": "kick",
+                    "start": "4.56"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.51",
+                    "word": "beijo",
+                    "start": "0"
+                },
+                {
+                    "end": "3.124",
+                    "word": "chave",
+                    "start": "1.51"
+                },
+                {
+                    "end": "4.581",
+                    "word": "pipa",
+                    "start": "3.124"
+                },
+                {
+                    "end": "6.248",
+                    "word": "chute",
+                    "start": "4.581"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "king_rei,kite_pipa,kick_chute,kitchen_cozinha",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_KKX_kite_quiz.png",
+            "page_no": "11",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "kite_pipa",
+            "trans_en": "king_rei,kite_pipa,kick_chute,kitchen_cozinha",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "PT_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "O que é essa imagem?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_KKX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"K k\",\n        \"ES\": \"K k\",\n        \"ZH\": \"K k\",\n        \"VI\": \"K k\",\n        \"AR\": \"K k\",\n        \"KO\": \"K k\",\n        \"DA\": \"K k\",\n        \"PS\": \"K k\",\n        \"TL\": \"K k\",\n        \"BN\": \"K k\",\n        \"PT\": \"K k\",\n        \"HK\": \"K k\",\n        \"TW\": \"K k\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_11.mp3",
+            "trans_vocab_audio": "PT_choice_11.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.57",
+                    "word": "king",
+                    "start": "0"
+                },
+                {
+                    "end": "3.16",
+                    "word": "kite",
+                    "start": "1.57"
+                },
+                {
+                    "end": "4.52",
+                    "word": "kick",
+                    "start": "3.16"
+                },
+                {
+                    "end": "6.08",
+                    "word": "kitchen",
+                    "start": "4.52"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.301",
+                    "word": "rei",
+                    "start": "0"
+                },
+                {
+                    "end": "2.758",
+                    "word": "pipa",
+                    "start": "1.301"
+                },
+                {
+                    "end": "4.425",
+                    "word": "chute",
+                    "start": "2.758"
+                },
+                {
+                    "end": "6.039",
+                    "word": "cozinha",
+                    "start": "4.425"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "key_chave,kitchen_cozinha,kite_pipa,kiss_beijo",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_KKX_kitchen_quiz.png",
+            "page_no": "12",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "kitchen_cozinha",
+            "trans_en": "key_chave,kitchen_cozinha,kite_pipa,kiss_beijo",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "PT_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "O que é essa imagem?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_KKX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"K k\",\n        \"ES\": \"K k\",\n        \"ZH\": \"K k\",\n        \"VI\": \"K k\",\n        \"AR\": \"K k\",\n        \"KO\": \"K k\",\n        \"DA\": \"K k\",\n        \"PS\": \"K k\",\n        \"TL\": \"K k\",\n        \"BN\": \"K k\",\n        \"PT\": \"K k\",\n        \"HK\": \"K k\",\n        \"TW\": \"K k\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_12.mp3",
+            "trans_vocab_audio": "PT_choice_12.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.43",
+                    "word": "key",
+                    "start": "0"
+                },
+                {
+                    "end": "2.99",
+                    "word": "kitchen",
+                    "start": "1.43"
+                },
+                {
+                    "end": "4.59",
+                    "word": "kite",
+                    "start": "2.99"
+                },
+                {
+                    "end": "6.13",
+                    "word": "kiss",
+                    "start": "4.59"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.614",
+                    "word": "chave",
+                    "start": "0"
+                },
+                {
+                    "end": "3.228",
+                    "word": "cozinha",
+                    "start": "1.614"
+                },
+                {
+                    "end": "4.686",
+                    "word": "pipa",
+                    "start": "3.228"
+                },
+                {
+                    "end": "6.196",
+                    "word": "beijo",
+                    "start": "4.686"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "key_chave,king_rei,kite_pipa,kick_chute",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_KKX_key_quiz.png",
+            "page_no": "13",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "key_chave",
+            "trans_en": "key_chave,king_rei,kite_pipa,kick_chute",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "PT_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "O que é essa imagem?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_KKX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"K k\",\n        \"ES\": \"K k\",\n        \"ZH\": \"K k\",\n        \"VI\": \"K k\",\n        \"AR\": \"K k\",\n        \"KO\": \"K k\",\n        \"DA\": \"K k\",\n        \"PS\": \"K k\",\n        \"TL\": \"K k\",\n        \"BN\": \"K k\",\n        \"PT\": \"K k\",\n        \"HK\": \"K k\",\n        \"TW\": \"K k\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_13.mp3",
+            "trans_vocab_audio": "PT_choice_13.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.43",
+                    "word": "key",
+                    "start": "0"
+                },
+                {
+                    "end": "2.99",
+                    "word": "king",
+                    "start": "1.43"
+                },
+                {
+                    "end": "4.59",
+                    "word": "kite",
+                    "start": "2.99"
+                },
+                {
+                    "end": "5.94",
+                    "word": "kick",
+                    "start": "4.59"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.614",
+                    "word": "chave",
+                    "start": "0"
+                },
+                {
+                    "end": "2.915",
+                    "word": "rei",
+                    "start": "1.614"
+                },
+                {
+                    "end": "4.372",
+                    "word": "pipa",
+                    "start": "2.915"
+                },
+                {
+                    "end": "6.039",
+                    "word": "chute",
+                    "start": "4.372"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "Cynthia Harrison Barbera||Translator||StoryWorld & Pixabay",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_KKX_cover_p1.png",
+            "page_no": "14",
+            "page_type": "credits",
+            "page_type_id": 14,
+            "sw_name": "Credits",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_KKX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"K k\",\n        \"ES\": \"K k\",\n        \"ZH\": \"K k\",\n        \"VI\": \"K k\",\n        \"AR\": \"K k\",\n        \"KO\": \"K k\",\n        \"DA\": \"K k\",\n        \"PS\": \"K k\",\n        \"TL\": \"K k\",\n        \"BN\": \"K k\",\n        \"PT\": \"K k\",\n        \"HK\": \"K k\",\n        \"TW\": \"K k\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": [
+                "Written and Narrated by:Cynthia Harrison Barbera",
+                "Translated by:Diego Dauer",
+                "Illustrated by:StoryWorld & Pixabay"
+            ],
+            "credit_data_trans": [
+                "Escrito e narrado por:Cynthia Harrison Barbera",
+                "Traduzido por:Diego Dauer",
+                "Ilustrado por:StoryWorld & Pixabay"
+            ],
+            "book_name": "LB_KKX"
+        }
+    ]
+}

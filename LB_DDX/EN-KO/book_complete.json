@@ -1,0 +1,944 @@
+{
+    "data": [
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "D d",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "thumbnail.jpg",
+            "page_no": "0",
+            "page_type": "meta",
+            "page_type_id": 1,
+            "sw_name": "Thumbnail",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_DDX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"D d\",\n        \"ES\": \"D d\",\n        \"ZH\": \"D d\",\n        \"VI\": \"D d\",\n        \"AR\": \"D d\",\n        \"KO\": \"D d\",\n        \"DA\": \"D d\",\n        \"PS\": \"D d\",\n        \"TL\": \"D d\",\n        \"BN\": \"D d\",\n        \"PT\": \"D d\",\n        \"HK\": \"D d\",\n        \"TW\": \"D d\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "D d",
+            "en_trans": "d d_d d",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_DDX_cover_p1.png",
+            "page_no": "1",
+            "page_type": "title",
+            "page_type_id": 3,
+            "sw_name": "Title",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "d d_d d",
+            "trans_text": "D d",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_DDX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"D d\",\n        \"ES\": \"D d\",\n        \"ZH\": \"D d\",\n        \"VI\": \"D d\",\n        \"AR\": \"D d\",\n        \"KO\": \"D d\",\n        \"DA\": \"D d\",\n        \"PS\": \"D d\",\n        \"TL\": \"D d\",\n        \"BN\": \"D d\",\n        \"PT\": \"D d\",\n        \"HK\": \"D d\",\n        \"TW\": \"D d\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_1.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.56",
+                    "word": "d d",
+                    "start": "0"
+                },
+                {
+                    "end": "2.56",
+                    "word": "d d",
+                    "start": "2.56"
+                }
+            ],
+            "trans_vocab_audio": "KO_dictionary_1.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.708",
+                    "word": "d d",
+                    "start": "0"
+                },
+                {
+                    "end": "3.42",
+                    "word": "d d",
+                    "start": "1.71"
+                }
+            ],
+            "nar_audio_en": "DDX_narr_Dd_p1.mp3",
+            "nar_audio_trans": "KO_sample_1.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "d d",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "D D",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "dance",
+            "en_trans": "dance_춤",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_DDX_dance_p2.png",
+            "page_no": "2",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "춤_dance",
+            "trans_text": "춤",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_DDX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"D d\",\n        \"ES\": \"D d\",\n        \"ZH\": \"D d\",\n        \"VI\": \"D d\",\n        \"AR\": \"D d\",\n        \"KO\": \"D d\",\n        \"DA\": \"D d\",\n        \"PS\": \"D d\",\n        \"TL\": \"D d\",\n        \"BN\": \"D d\",\n        \"PT\": \"D d\",\n        \"HK\": \"D d\",\n        \"TW\": \"D d\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_2.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.28",
+                    "word": "dance",
+                    "start": "0"
+                },
+                {
+                    "end": "2.28",
+                    "word": "dance",
+                    "start": "2.28"
+                }
+            ],
+            "trans_vocab_audio": "KO_dictionary_2.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.516",
+                    "word": "춤",
+                    "start": "0"
+                },
+                {
+                    "end": "3.04",
+                    "word": "춤",
+                    "start": "1.52"
+                }
+            ],
+            "nar_audio_en": "DDX_narr_dance_p2.mp3",
+            "nar_audio_trans": "KO_sample_2.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "춤",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "dance",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "deer",
+            "en_trans": "deer_사슴",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_DDX_deer_p3.png",
+            "page_no": "3",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "사슴_deer",
+            "trans_text": "사슴",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_DDX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"D d\",\n        \"ES\": \"D d\",\n        \"ZH\": \"D d\",\n        \"VI\": \"D d\",\n        \"AR\": \"D d\",\n        \"KO\": \"D d\",\n        \"DA\": \"D d\",\n        \"PS\": \"D d\",\n        \"TL\": \"D d\",\n        \"BN\": \"D d\",\n        \"PT\": \"D d\",\n        \"HK\": \"D d\",\n        \"TW\": \"D d\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_3.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.24",
+                    "word": "deer",
+                    "start": "0"
+                },
+                {
+                    "end": "2.24",
+                    "word": "deer",
+                    "start": "2.24"
+                }
+            ],
+            "trans_vocab_audio": "KO_dictionary_3.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.78",
+                    "word": "사슴",
+                    "start": "0"
+                },
+                {
+                    "end": "3.56",
+                    "word": "사슴",
+                    "start": "1.78"
+                }
+            ],
+            "nar_audio_en": "DDX_narr_deer_p3.mp3",
+            "nar_audio_trans": "KO_sample_3.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "사슴",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "deer",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "dish",
+            "en_trans": "dish_접시",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_DDX_dish_p4.png",
+            "page_no": "4",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "접시_dish",
+            "trans_text": "접시",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_DDX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"D d\",\n        \"ES\": \"D d\",\n        \"ZH\": \"D d\",\n        \"VI\": \"D d\",\n        \"AR\": \"D d\",\n        \"KO\": \"D d\",\n        \"DA\": \"D d\",\n        \"PS\": \"D d\",\n        \"TL\": \"D d\",\n        \"BN\": \"D d\",\n        \"PT\": \"D d\",\n        \"HK\": \"D d\",\n        \"TW\": \"D d\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_4.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.09",
+                    "word": "dish",
+                    "start": "0"
+                },
+                {
+                    "end": "2.09",
+                    "word": "dish",
+                    "start": "2.09"
+                }
+            ],
+            "trans_vocab_audio": "KO_dictionary_4.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.852",
+                    "word": "접시",
+                    "start": "0"
+                },
+                {
+                    "end": "3.7",
+                    "word": "접시",
+                    "start": "1.85"
+                }
+            ],
+            "nar_audio_en": "DDX_narr_dish_p4.mp3",
+            "nar_audio_trans": "KO_sample_4.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "접시",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "dish",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "doll",
+            "en_trans": "doll_인형",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_DDX_doll_p5.png",
+            "page_no": "5",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "인형_doll",
+            "trans_text": "인형",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_DDX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"D d\",\n        \"ES\": \"D d\",\n        \"ZH\": \"D d\",\n        \"VI\": \"D d\",\n        \"AR\": \"D d\",\n        \"KO\": \"D d\",\n        \"DA\": \"D d\",\n        \"PS\": \"D d\",\n        \"TL\": \"D d\",\n        \"BN\": \"D d\",\n        \"PT\": \"D d\",\n        \"HK\": \"D d\",\n        \"TW\": \"D d\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_5.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.28",
+                    "word": "doll",
+                    "start": "0"
+                },
+                {
+                    "end": "2.28",
+                    "word": "doll",
+                    "start": "2.28"
+                }
+            ],
+            "trans_vocab_audio": "KO_dictionary_5.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.492",
+                    "word": "인형",
+                    "start": "0"
+                },
+                {
+                    "end": "2.98",
+                    "word": "인형",
+                    "start": "1.49"
+                }
+            ],
+            "nar_audio_en": "DDX_narr_doll_p5.mp3",
+            "nar_audio_trans": "KO_sample_5.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "인형",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "doll",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "door",
+            "en_trans": "door_문",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_DDX_door_p6.png",
+            "page_no": "6",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "문_door",
+            "trans_text": "문",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_DDX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"D d\",\n        \"ES\": \"D d\",\n        \"ZH\": \"D d\",\n        \"VI\": \"D d\",\n        \"AR\": \"D d\",\n        \"KO\": \"D d\",\n        \"DA\": \"D d\",\n        \"PS\": \"D d\",\n        \"TL\": \"D d\",\n        \"BN\": \"D d\",\n        \"PT\": \"D d\",\n        \"HK\": \"D d\",\n        \"TW\": \"D d\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_6.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.09",
+                    "word": "door",
+                    "start": "0"
+                },
+                {
+                    "end": "2.09",
+                    "word": "door",
+                    "start": "2.09"
+                }
+            ],
+            "trans_vocab_audio": "KO_dictionary_6.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.444",
+                    "word": "문",
+                    "start": "0"
+                },
+                {
+                    "end": "2.88",
+                    "word": "문",
+                    "start": "1.44"
+                }
+            ],
+            "nar_audio_en": "DDX_narr_door_p6.mp3",
+            "nar_audio_trans": "KO_sample_6.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "문",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "door",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "duck",
+            "en_trans": "duck_오리",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_DDX_duck_p7.png",
+            "page_no": "7",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "오리_duck",
+            "trans_text": "오리",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_DDX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"D d\",\n        \"ES\": \"D d\",\n        \"ZH\": \"D d\",\n        \"VI\": \"D d\",\n        \"AR\": \"D d\",\n        \"KO\": \"D d\",\n        \"DA\": \"D d\",\n        \"PS\": \"D d\",\n        \"TL\": \"D d\",\n        \"BN\": \"D d\",\n        \"PT\": \"D d\",\n        \"HK\": \"D d\",\n        \"TW\": \"D d\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_7.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.9",
+                    "word": "duck",
+                    "start": "0"
+                },
+                {
+                    "end": "1.9",
+                    "word": "duck",
+                    "start": "1.9"
+                }
+            ],
+            "trans_vocab_audio": "KO_dictionary_7.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.54",
+                    "word": "오리",
+                    "start": "0"
+                },
+                {
+                    "end": "3.08",
+                    "word": "오리",
+                    "start": "1.54"
+                }
+            ],
+            "nar_audio_en": "DDX_narr_duck_p7.mp3",
+            "nar_audio_trans": "KO_sample_7.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "오리",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "duck",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "deer_사슴,doll_인형,dish_접시,dance_춤",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_DDX_doll_quiz.png",
+            "page_no": "8",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "doll_인형",
+            "trans_en": "deer_사슴,doll_인형,dish_접시,dance_춤",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "KO_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "이 그림은 무엇입니까?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_DDX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"D d\",\n        \"ES\": \"D d\",\n        \"ZH\": \"D d\",\n        \"VI\": \"D d\",\n        \"AR\": \"D d\",\n        \"KO\": \"D d\",\n        \"DA\": \"D d\",\n        \"PS\": \"D d\",\n        \"TL\": \"D d\",\n        \"BN\": \"D d\",\n        \"PT\": \"D d\",\n        \"HK\": \"D d\",\n        \"TW\": \"D d\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_8.mp3",
+            "trans_vocab_audio": "KO_choice_8.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.24",
+                    "word": "deer",
+                    "start": "0"
+                },
+                {
+                    "end": "4.52",
+                    "word": "doll",
+                    "start": "2.24"
+                },
+                {
+                    "end": "6.61",
+                    "word": "dish",
+                    "start": "4.52"
+                },
+                {
+                    "end": "8.89",
+                    "word": "dance",
+                    "start": "6.61"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.78",
+                    "word": "사슴",
+                    "start": "0"
+                },
+                {
+                    "end": "3.272",
+                    "word": "인형",
+                    "start": "1.78"
+                },
+                {
+                    "end": "5.124",
+                    "word": "접시",
+                    "start": "3.272"
+                },
+                {
+                    "end": "6.639",
+                    "word": "춤",
+                    "start": "5.124"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "dance_춤,doll_인형,duck_오리,door_문",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_DDX_duck_quiz.png",
+            "page_no": "9",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "duck_오리",
+            "trans_en": "dance_춤,doll_인형,duck_오리,door_문",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "KO_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "이 그림은 무엇입니까?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_DDX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"D d\",\n        \"ES\": \"D d\",\n        \"ZH\": \"D d\",\n        \"VI\": \"D d\",\n        \"AR\": \"D d\",\n        \"KO\": \"D d\",\n        \"DA\": \"D d\",\n        \"PS\": \"D d\",\n        \"TL\": \"D d\",\n        \"BN\": \"D d\",\n        \"PT\": \"D d\",\n        \"HK\": \"D d\",\n        \"TW\": \"D d\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_9.mp3",
+            "trans_vocab_audio": "KO_choice_9.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.28",
+                    "word": "dance",
+                    "start": "0"
+                },
+                {
+                    "end": "4.57",
+                    "word": "doll",
+                    "start": "2.28"
+                },
+                {
+                    "end": "6.47",
+                    "word": "duck",
+                    "start": "4.57"
+                },
+                {
+                    "end": "8.56",
+                    "word": "door",
+                    "start": "6.47"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.516",
+                    "word": "춤",
+                    "start": "0"
+                },
+                {
+                    "end": "3.008",
+                    "word": "인형",
+                    "start": "1.516"
+                },
+                {
+                    "end": "4.548",
+                    "word": "오리",
+                    "start": "3.008"
+                },
+                {
+                    "end": "5.992",
+                    "word": "문",
+                    "start": "4.548"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "deer_사슴,dish_접시,dance_춤,duck_오리",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_DDX_deer_quiz.png",
+            "page_no": "10",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "deer_사슴",
+            "trans_en": "deer_사슴,dish_접시,dance_춤,duck_오리",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "KO_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "이 그림은 무엇입니까?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_DDX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"D d\",\n        \"ES\": \"D d\",\n        \"ZH\": \"D d\",\n        \"VI\": \"D d\",\n        \"AR\": \"D d\",\n        \"KO\": \"D d\",\n        \"DA\": \"D d\",\n        \"PS\": \"D d\",\n        \"TL\": \"D d\",\n        \"BN\": \"D d\",\n        \"PT\": \"D d\",\n        \"HK\": \"D d\",\n        \"TW\": \"D d\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_10.mp3",
+            "trans_vocab_audio": "KO_choice_10.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.24",
+                    "word": "deer",
+                    "start": "0"
+                },
+                {
+                    "end": "4.33",
+                    "word": "dish",
+                    "start": "2.24"
+                },
+                {
+                    "end": "6.61",
+                    "word": "dance",
+                    "start": "4.33"
+                },
+                {
+                    "end": "8.51",
+                    "word": "duck",
+                    "start": "6.61"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.78",
+                    "word": "사슴",
+                    "start": "0"
+                },
+                {
+                    "end": "3.632",
+                    "word": "접시",
+                    "start": "1.78"
+                },
+                {
+                    "end": "5.148",
+                    "word": "춤",
+                    "start": "3.632"
+                },
+                {
+                    "end": "6.688",
+                    "word": "오리",
+                    "start": "5.148"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "dance_춤,door_문,doll_인형,duck_오리",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_DDX_door_quiz.png",
+            "page_no": "11",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "door_문",
+            "trans_en": "dance_춤,door_문,doll_인형,duck_오리",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "KO_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "이 그림은 무엇입니까?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_DDX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"D d\",\n        \"ES\": \"D d\",\n        \"ZH\": \"D d\",\n        \"VI\": \"D d\",\n        \"AR\": \"D d\",\n        \"KO\": \"D d\",\n        \"DA\": \"D d\",\n        \"PS\": \"D d\",\n        \"TL\": \"D d\",\n        \"BN\": \"D d\",\n        \"PT\": \"D d\",\n        \"HK\": \"D d\",\n        \"TW\": \"D d\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_11.mp3",
+            "trans_vocab_audio": "KO_choice_11.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.28",
+                    "word": "dance",
+                    "start": "0"
+                },
+                {
+                    "end": "4.37",
+                    "word": "door",
+                    "start": "2.28"
+                },
+                {
+                    "end": "6.66",
+                    "word": "doll",
+                    "start": "4.37"
+                },
+                {
+                    "end": "8.56",
+                    "word": "duck",
+                    "start": "6.66"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.516",
+                    "word": "춤",
+                    "start": "0"
+                },
+                {
+                    "end": "2.96",
+                    "word": "문",
+                    "start": "1.516"
+                },
+                {
+                    "end": "4.452",
+                    "word": "인형",
+                    "start": "2.96"
+                },
+                {
+                    "end": "5.992",
+                    "word": "오리",
+                    "start": "4.452"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "deer_사슴,doll_인형,dish_접시,door_문",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_DDX_dish_quiz.png",
+            "page_no": "12",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "dish_접시",
+            "trans_en": "deer_사슴,doll_인형,dish_접시,door_문",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "KO_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "이 그림은 무엇입니까?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_DDX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"D d\",\n        \"ES\": \"D d\",\n        \"ZH\": \"D d\",\n        \"VI\": \"D d\",\n        \"AR\": \"D d\",\n        \"KO\": \"D d\",\n        \"DA\": \"D d\",\n        \"PS\": \"D d\",\n        \"TL\": \"D d\",\n        \"BN\": \"D d\",\n        \"PT\": \"D d\",\n        \"HK\": \"D d\",\n        \"TW\": \"D d\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_12.mp3",
+            "trans_vocab_audio": "KO_choice_12.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.24",
+                    "word": "deer",
+                    "start": "0"
+                },
+                {
+                    "end": "4.52",
+                    "word": "doll",
+                    "start": "2.24"
+                },
+                {
+                    "end": "6.61",
+                    "word": "dish",
+                    "start": "4.52"
+                },
+                {
+                    "end": "8.7",
+                    "word": "door",
+                    "start": "6.61"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.78",
+                    "word": "사슴",
+                    "start": "0"
+                },
+                {
+                    "end": "3.272",
+                    "word": "인형",
+                    "start": "1.78"
+                },
+                {
+                    "end": "5.124",
+                    "word": "접시",
+                    "start": "3.272"
+                },
+                {
+                    "end": "6.567",
+                    "word": "문",
+                    "start": "5.124"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "dance_춤,deer_사슴,door_문,doll_인형",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_DDX_dance_quiz.png",
+            "page_no": "13",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "dance_춤",
+            "trans_en": "dance_춤,deer_사슴,door_문,doll_인형",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "KO_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "이 그림은 무엇입니까?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_DDX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"D d\",\n        \"ES\": \"D d\",\n        \"ZH\": \"D d\",\n        \"VI\": \"D d\",\n        \"AR\": \"D d\",\n        \"KO\": \"D d\",\n        \"DA\": \"D d\",\n        \"PS\": \"D d\",\n        \"TL\": \"D d\",\n        \"BN\": \"D d\",\n        \"PT\": \"D d\",\n        \"HK\": \"D d\",\n        \"TW\": \"D d\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_13.mp3",
+            "trans_vocab_audio": "KO_choice_13.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.28",
+                    "word": "dance",
+                    "start": "0"
+                },
+                {
+                    "end": "4.52",
+                    "word": "deer",
+                    "start": "2.28"
+                },
+                {
+                    "end": "6.61",
+                    "word": "door",
+                    "start": "4.52"
+                },
+                {
+                    "end": "8.89",
+                    "word": "doll",
+                    "start": "6.61"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.516",
+                    "word": "춤",
+                    "start": "0"
+                },
+                {
+                    "end": "3.296",
+                    "word": "사슴",
+                    "start": "1.516"
+                },
+                {
+                    "end": "4.74",
+                    "word": "문",
+                    "start": "3.296"
+                },
+                {
+                    "end": "6.231",
+                    "word": "인형",
+                    "start": "4.74"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "Cynthia Harrison Barbera||Translator||StoryWorld & Pixabay",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_DDX_cover_p1.png",
+            "page_no": "14",
+            "page_type": "credits",
+            "page_type_id": 14,
+            "sw_name": "Credits",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_DDX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"D d\",\n        \"ES\": \"D d\",\n        \"ZH\": \"D d\",\n        \"VI\": \"D d\",\n        \"AR\": \"D d\",\n        \"KO\": \"D d\",\n        \"DA\": \"D d\",\n        \"PS\": \"D d\",\n        \"TL\": \"D d\",\n        \"BN\": \"D d\",\n        \"PT\": \"D d\",\n        \"HK\": \"D d\",\n        \"TW\": \"D d\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": [
+                "Written and Narrated by:Cynthia Harrison Barbera",
+                "Translated by:Min Jung Jang, Julie Gochman",
+                "Illustrated by:StoryWorld & Pixabay"
+            ],
+            "credit_data_trans": [
+                "작성자 및 내레이션:Cynthia Harrison Barbera",
+                "번역한 사람:Min Jung Jang, Julie Gochman",
+                "일러스트 작성자:StoryWorld & Pixabay"
+            ],
+            "book_name": "LB_DDX"
+        }
+    ]
+}

@@ -1,0 +1,944 @@
+{
+    "data": [
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "S h",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "thumbnail.jpg",
+            "page_no": "0",
+            "page_type": "meta",
+            "page_type_id": 1,
+            "sw_name": "Thumbnail",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_SHX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"SH  sh\",\n        \"ES\": \"SH  sh\",\n        \"ZH\": \"SH  sh\",\n        \"VI\": \"SH  sh\",\n        \"AR\": \"SH  sh\",\n        \"KO\": \"SH  sh\",\n        \"DA\": \"SH  sh\",\n        \"PS\": \"SH  sh\",\n        \"TL\": \"SH  sh\",\n        \"BN\": \"SH  sh\",\n        \"PT\": \"SH  sh\",\n        \"HK\": \"SH  sh\",\n        \"TW\": \"SH  sh\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "S h",
+            "en_trans": "s h_s h",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_SHX_cover_p1.png",
+            "page_no": "1",
+            "page_type": "title",
+            "page_type_id": 3,
+            "sw_name": "Title",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "s h_s h",
+            "trans_text": "S h",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_SHX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"SH  sh\",\n        \"ES\": \"SH  sh\",\n        \"ZH\": \"SH  sh\",\n        \"VI\": \"SH  sh\",\n        \"AR\": \"SH  sh\",\n        \"KO\": \"SH  sh\",\n        \"DA\": \"SH  sh\",\n        \"PS\": \"SH  sh\",\n        \"TL\": \"SH  sh\",\n        \"BN\": \"SH  sh\",\n        \"PT\": \"SH  sh\",\n        \"HK\": \"SH  sh\",\n        \"TW\": \"SH  sh\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_1.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.98",
+                    "word": "s h",
+                    "start": "0"
+                },
+                {
+                    "end": "1.98",
+                    "word": "s h",
+                    "start": "1.98"
+                }
+            ],
+            "trans_vocab_audio": "ES_dictionary_1.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.771",
+                    "word": "s h",
+                    "start": "0"
+                },
+                {
+                    "end": "3.54",
+                    "word": "s h",
+                    "start": "1.77"
+                }
+            ],
+            "nar_audio_en": "SHX_narr_SH_p1.mp3",
+            "nar_audio_trans": "ES_sample_1.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "s h",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "S h",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "sheep",
+            "en_trans": "sheep_oveja",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_SHX_sheep_p2.png",
+            "page_no": "2",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "oveja_sheep",
+            "trans_text": "oveja",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_SHX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"SH  sh\",\n        \"ES\": \"SH  sh\",\n        \"ZH\": \"SH  sh\",\n        \"VI\": \"SH  sh\",\n        \"AR\": \"SH  sh\",\n        \"KO\": \"SH  sh\",\n        \"DA\": \"SH  sh\",\n        \"PS\": \"SH  sh\",\n        \"TL\": \"SH  sh\",\n        \"BN\": \"SH  sh\",\n        \"PT\": \"SH  sh\",\n        \"HK\": \"SH  sh\",\n        \"TW\": \"SH  sh\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_2.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.85",
+                    "word": "sheep",
+                    "start": "0"
+                },
+                {
+                    "end": "1.85",
+                    "word": "sheep",
+                    "start": "1.85"
+                }
+            ],
+            "trans_vocab_audio": "ES_dictionary_2.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.51",
+                    "word": "oveja",
+                    "start": "0"
+                },
+                {
+                    "end": "3.02",
+                    "word": "oveja",
+                    "start": "1.51"
+                }
+            ],
+            "nar_audio_en": "SHX_narr_sheep_p2.mp3",
+            "nar_audio_trans": "ES_sample_2.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "oveja",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "sheep",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "shell",
+            "en_trans": "shell_cáscara",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_SHX_shell_p3.png",
+            "page_no": "3",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "cáscara_shell",
+            "trans_text": "cáscara",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_SHX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"SH  sh\",\n        \"ES\": \"SH  sh\",\n        \"ZH\": \"SH  sh\",\n        \"VI\": \"SH  sh\",\n        \"AR\": \"SH  sh\",\n        \"KO\": \"SH  sh\",\n        \"DA\": \"SH  sh\",\n        \"PS\": \"SH  sh\",\n        \"TL\": \"SH  sh\",\n        \"BN\": \"SH  sh\",\n        \"PT\": \"SH  sh\",\n        \"HK\": \"SH  sh\",\n        \"TW\": \"SH  sh\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_3.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.98",
+                    "word": "shell",
+                    "start": "0"
+                },
+                {
+                    "end": "1.98",
+                    "word": "shell",
+                    "start": "1.98"
+                }
+            ],
+            "trans_vocab_audio": "ES_dictionary_3.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.64",
+                    "word": "cáscara",
+                    "start": "0"
+                },
+                {
+                    "end": "3.28",
+                    "word": "cáscara",
+                    "start": "1.64"
+                }
+            ],
+            "nar_audio_en": "SHX_narr_shell_p3.mp3",
+            "nar_audio_trans": "ES_sample_3.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "cáscara",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "shell",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "shark",
+            "en_trans": "shark_tiburón",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_SHX_shark_p4.png",
+            "page_no": "4",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "tiburón_shark",
+            "trans_text": "tiburón",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_SHX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"SH  sh\",\n        \"ES\": \"SH  sh\",\n        \"ZH\": \"SH  sh\",\n        \"VI\": \"SH  sh\",\n        \"AR\": \"SH  sh\",\n        \"KO\": \"SH  sh\",\n        \"DA\": \"SH  sh\",\n        \"PS\": \"SH  sh\",\n        \"TL\": \"SH  sh\",\n        \"BN\": \"SH  sh\",\n        \"PT\": \"SH  sh\",\n        \"HK\": \"SH  sh\",\n        \"TW\": \"SH  sh\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_4.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.16",
+                    "word": "shark",
+                    "start": "0"
+                },
+                {
+                    "end": "2.16",
+                    "word": "shark",
+                    "start": "2.16"
+                }
+            ],
+            "trans_vocab_audio": "ES_dictionary_4.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.614",
+                    "word": "tiburón",
+                    "start": "0"
+                },
+                {
+                    "end": "3.22",
+                    "word": "tiburón",
+                    "start": "1.61"
+                }
+            ],
+            "nar_audio_en": "SHX_narr_shark_p4.mp3",
+            "nar_audio_trans": "ES_sample_4.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "tiburón",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "shark",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "ship",
+            "en_trans": "ship_barco",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_SHX_ship_p5.png",
+            "page_no": "5",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "barco_ship",
+            "trans_text": "barco",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_SHX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"SH  sh\",\n        \"ES\": \"SH  sh\",\n        \"ZH\": \"SH  sh\",\n        \"VI\": \"SH  sh\",\n        \"AR\": \"SH  sh\",\n        \"KO\": \"SH  sh\",\n        \"DA\": \"SH  sh\",\n        \"PS\": \"SH  sh\",\n        \"TL\": \"SH  sh\",\n        \"BN\": \"SH  sh\",\n        \"PT\": \"SH  sh\",\n        \"HK\": \"SH  sh\",\n        \"TW\": \"SH  sh\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_5.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.85",
+                    "word": "ship",
+                    "start": "0"
+                },
+                {
+                    "end": "1.85",
+                    "word": "ship",
+                    "start": "1.85"
+                }
+            ],
+            "trans_vocab_audio": "ES_dictionary_5.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.457",
+                    "word": "barco",
+                    "start": "0"
+                },
+                {
+                    "end": "2.92",
+                    "word": "barco",
+                    "start": "1.46"
+                }
+            ],
+            "nar_audio_en": "SHX_narr_ship_p5.mp3",
+            "nar_audio_trans": "ES_sample_5.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "barco",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "ship",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "shirt",
+            "en_trans": "shirt_camisa",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_SHX_shirt_p6.png",
+            "page_no": "6",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "camisa_shirt",
+            "trans_text": "camisa",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_SHX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"SH  sh\",\n        \"ES\": \"SH  sh\",\n        \"ZH\": \"SH  sh\",\n        \"VI\": \"SH  sh\",\n        \"AR\": \"SH  sh\",\n        \"KO\": \"SH  sh\",\n        \"DA\": \"SH  sh\",\n        \"PS\": \"SH  sh\",\n        \"TL\": \"SH  sh\",\n        \"BN\": \"SH  sh\",\n        \"PT\": \"SH  sh\",\n        \"HK\": \"SH  sh\",\n        \"TW\": \"SH  sh\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_6.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.01",
+                    "word": "shirt",
+                    "start": "0"
+                },
+                {
+                    "end": "2.01",
+                    "word": "shirt",
+                    "start": "2.01"
+                }
+            ],
+            "trans_vocab_audio": "ES_dictionary_6.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.51",
+                    "word": "camisa",
+                    "start": "0"
+                },
+                {
+                    "end": "3.02",
+                    "word": "camisa",
+                    "start": "1.51"
+                }
+            ],
+            "nar_audio_en": "SHX_narr_shirt_p6.mp3",
+            "nar_audio_trans": "ES_sample_6.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "camisa",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "shirt",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "shop",
+            "en_trans": "shop_tienda",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_SHX_shop_p7.png",
+            "page_no": "7",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "tienda_shop",
+            "trans_text": "tienda",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_SHX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"SH  sh\",\n        \"ES\": \"SH  sh\",\n        \"ZH\": \"SH  sh\",\n        \"VI\": \"SH  sh\",\n        \"AR\": \"SH  sh\",\n        \"KO\": \"SH  sh\",\n        \"DA\": \"SH  sh\",\n        \"PS\": \"SH  sh\",\n        \"TL\": \"SH  sh\",\n        \"BN\": \"SH  sh\",\n        \"PT\": \"SH  sh\",\n        \"HK\": \"SH  sh\",\n        \"TW\": \"SH  sh\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_7.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.69",
+                    "word": "shop",
+                    "start": "0"
+                },
+                {
+                    "end": "1.69",
+                    "word": "shop",
+                    "start": "1.69"
+                }
+            ],
+            "trans_vocab_audio": "ES_dictionary_7.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.536",
+                    "word": "tienda",
+                    "start": "0"
+                },
+                {
+                    "end": "3.08",
+                    "word": "tienda",
+                    "start": "1.54"
+                }
+            ],
+            "nar_audio_en": "SHX_narr_shop_p7.mp3",
+            "nar_audio_trans": "ES_sample_7.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "tienda",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "shop",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "shirt_camisa,shark_tiburón,ship_barco,shell_cáscara",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_SHX_ship_quiz.png",
+            "page_no": "8",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "ship_barco",
+            "trans_en": "shirt_camisa,shark_tiburón,ship_barco,shell_cáscara",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ES_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "¿Qué es esta imagen?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_SHX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"SH  sh\",\n        \"ES\": \"SH  sh\",\n        \"ZH\": \"SH  sh\",\n        \"VI\": \"SH  sh\",\n        \"AR\": \"SH  sh\",\n        \"KO\": \"SH  sh\",\n        \"DA\": \"SH  sh\",\n        \"PS\": \"SH  sh\",\n        \"TL\": \"SH  sh\",\n        \"BN\": \"SH  sh\",\n        \"PT\": \"SH  sh\",\n        \"HK\": \"SH  sh\",\n        \"TW\": \"SH  sh\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_8.mp3",
+            "trans_vocab_audio": "ES_choice_8.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.01",
+                    "word": "shirt",
+                    "start": "0"
+                },
+                {
+                    "end": "4.17",
+                    "word": "shark",
+                    "start": "2.01"
+                },
+                {
+                    "end": "6.02",
+                    "word": "ship",
+                    "start": "4.17"
+                },
+                {
+                    "end": "8.0",
+                    "word": "shell",
+                    "start": "6.02"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.51",
+                    "word": "camisa",
+                    "start": "0"
+                },
+                {
+                    "end": "3.124",
+                    "word": "tiburón",
+                    "start": "1.51"
+                },
+                {
+                    "end": "4.581",
+                    "word": "barco",
+                    "start": "3.124"
+                },
+                {
+                    "end": "6.222",
+                    "word": "cáscara",
+                    "start": "4.581"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "shop_tienda,shell_cáscara,ship_barco,sheep_oveja",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_SHX_shop_quiz.png",
+            "page_no": "9",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "shop_tienda",
+            "trans_en": "shop_tienda,shell_cáscara,ship_barco,sheep_oveja",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ES_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "¿Qué es esta imagen?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_SHX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"SH  sh\",\n        \"ES\": \"SH  sh\",\n        \"ZH\": \"SH  sh\",\n        \"VI\": \"SH  sh\",\n        \"AR\": \"SH  sh\",\n        \"KO\": \"SH  sh\",\n        \"DA\": \"SH  sh\",\n        \"PS\": \"SH  sh\",\n        \"TL\": \"SH  sh\",\n        \"BN\": \"SH  sh\",\n        \"PT\": \"SH  sh\",\n        \"HK\": \"SH  sh\",\n        \"TW\": \"SH  sh\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_9.mp3",
+            "trans_vocab_audio": "ES_choice_9.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.69",
+                    "word": "shop",
+                    "start": "0"
+                },
+                {
+                    "end": "3.67",
+                    "word": "shell",
+                    "start": "1.69"
+                },
+                {
+                    "end": "5.52",
+                    "word": "ship",
+                    "start": "3.67"
+                },
+                {
+                    "end": "7.37",
+                    "word": "sheep",
+                    "start": "5.52"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.536",
+                    "word": "tienda",
+                    "start": "0"
+                },
+                {
+                    "end": "3.176",
+                    "word": "cáscara",
+                    "start": "1.536"
+                },
+                {
+                    "end": "4.634",
+                    "word": "barco",
+                    "start": "3.176"
+                },
+                {
+                    "end": "6.143",
+                    "word": "oveja",
+                    "start": "4.634"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "ship_barco,shark_tiburón,shell_cáscara,sheep_oveja",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_SHX_shell_quiz.png",
+            "page_no": "10",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "shell_cáscara",
+            "trans_en": "ship_barco,shark_tiburón,shell_cáscara,sheep_oveja",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ES_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "¿Qué es esta imagen?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_SHX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"SH  sh\",\n        \"ES\": \"SH  sh\",\n        \"ZH\": \"SH  sh\",\n        \"VI\": \"SH  sh\",\n        \"AR\": \"SH  sh\",\n        \"KO\": \"SH  sh\",\n        \"DA\": \"SH  sh\",\n        \"PS\": \"SH  sh\",\n        \"TL\": \"SH  sh\",\n        \"BN\": \"SH  sh\",\n        \"PT\": \"SH  sh\",\n        \"HK\": \"SH  sh\",\n        \"TW\": \"SH  sh\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_10.mp3",
+            "trans_vocab_audio": "ES_choice_10.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.85",
+                    "word": "ship",
+                    "start": "0"
+                },
+                {
+                    "end": "4.01",
+                    "word": "shark",
+                    "start": "1.85"
+                },
+                {
+                    "end": "5.99",
+                    "word": "shell",
+                    "start": "4.01"
+                },
+                {
+                    "end": "7.84",
+                    "word": "sheep",
+                    "start": "5.99"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.457",
+                    "word": "barco",
+                    "start": "0"
+                },
+                {
+                    "end": "3.072",
+                    "word": "tiburón",
+                    "start": "1.457"
+                },
+                {
+                    "end": "4.712",
+                    "word": "cáscara",
+                    "start": "3.072"
+                },
+                {
+                    "end": "6.222",
+                    "word": "oveja",
+                    "start": "4.712"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "shell_cáscara,sheep_oveja,shirt_camisa,shop_tienda",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_SHX_shirt_quiz.png",
+            "page_no": "11",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "shirt_camisa",
+            "trans_en": "shell_cáscara,sheep_oveja,shirt_camisa,shop_tienda",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ES_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "¿Qué es esta imagen?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_SHX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"SH  sh\",\n        \"ES\": \"SH  sh\",\n        \"ZH\": \"SH  sh\",\n        \"VI\": \"SH  sh\",\n        \"AR\": \"SH  sh\",\n        \"KO\": \"SH  sh\",\n        \"DA\": \"SH  sh\",\n        \"PS\": \"SH  sh\",\n        \"TL\": \"SH  sh\",\n        \"BN\": \"SH  sh\",\n        \"PT\": \"SH  sh\",\n        \"HK\": \"SH  sh\",\n        \"TW\": \"SH  sh\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_11.mp3",
+            "trans_vocab_audio": "ES_choice_11.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.98",
+                    "word": "shell",
+                    "start": "0"
+                },
+                {
+                    "end": "3.83",
+                    "word": "sheep",
+                    "start": "1.98"
+                },
+                {
+                    "end": "5.84",
+                    "word": "shirt",
+                    "start": "3.83"
+                },
+                {
+                    "end": "7.53",
+                    "word": "shop",
+                    "start": "5.84"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.64",
+                    "word": "cáscara",
+                    "start": "0"
+                },
+                {
+                    "end": "3.15",
+                    "word": "oveja",
+                    "start": "1.64"
+                },
+                {
+                    "end": "4.66",
+                    "word": "camisa",
+                    "start": "3.15"
+                },
+                {
+                    "end": "6.196",
+                    "word": "tienda",
+                    "start": "4.66"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "shell_cáscara,shirt_camisa,ship_barco,shark_tiburón",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_SHX_shark_quiz.png",
+            "page_no": "12",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "shark_tiburón",
+            "trans_en": "shell_cáscara,shirt_camisa,ship_barco,shark_tiburón",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ES_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "¿Qué es esta imagen?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_SHX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"SH  sh\",\n        \"ES\": \"SH  sh\",\n        \"ZH\": \"SH  sh\",\n        \"VI\": \"SH  sh\",\n        \"AR\": \"SH  sh\",\n        \"KO\": \"SH  sh\",\n        \"DA\": \"SH  sh\",\n        \"PS\": \"SH  sh\",\n        \"TL\": \"SH  sh\",\n        \"BN\": \"SH  sh\",\n        \"PT\": \"SH  sh\",\n        \"HK\": \"SH  sh\",\n        \"TW\": \"SH  sh\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_12.mp3",
+            "trans_vocab_audio": "ES_choice_12.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.98",
+                    "word": "shell",
+                    "start": "0"
+                },
+                {
+                    "end": "3.99",
+                    "word": "shirt",
+                    "start": "1.98"
+                },
+                {
+                    "end": "5.84",
+                    "word": "ship",
+                    "start": "3.99"
+                },
+                {
+                    "end": "8.0",
+                    "word": "shark",
+                    "start": "5.84"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.64",
+                    "word": "cáscara",
+                    "start": "0"
+                },
+                {
+                    "end": "3.15",
+                    "word": "camisa",
+                    "start": "1.64"
+                },
+                {
+                    "end": "4.607",
+                    "word": "barco",
+                    "start": "3.15"
+                },
+                {
+                    "end": "6.222",
+                    "word": "tiburón",
+                    "start": "4.607"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "shop_tienda,shirt_camisa,sheep_oveja,shark_tiburón",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_SHX_sheep_quiz.png",
+            "page_no": "13",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "sheep_oveja",
+            "trans_en": "shop_tienda,shirt_camisa,sheep_oveja,shark_tiburón",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "ES_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "¿Qué es esta imagen?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_SHX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"SH  sh\",\n        \"ES\": \"SH  sh\",\n        \"ZH\": \"SH  sh\",\n        \"VI\": \"SH  sh\",\n        \"AR\": \"SH  sh\",\n        \"KO\": \"SH  sh\",\n        \"DA\": \"SH  sh\",\n        \"PS\": \"SH  sh\",\n        \"TL\": \"SH  sh\",\n        \"BN\": \"SH  sh\",\n        \"PT\": \"SH  sh\",\n        \"HK\": \"SH  sh\",\n        \"TW\": \"SH  sh\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_13.mp3",
+            "trans_vocab_audio": "ES_choice_13.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.69",
+                    "word": "shop",
+                    "start": "0"
+                },
+                {
+                    "end": "3.7",
+                    "word": "shirt",
+                    "start": "1.69"
+                },
+                {
+                    "end": "5.55",
+                    "word": "sheep",
+                    "start": "3.7"
+                },
+                {
+                    "end": "7.71",
+                    "word": "shark",
+                    "start": "5.55"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.536",
+                    "word": "tienda",
+                    "start": "0"
+                },
+                {
+                    "end": "3.046",
+                    "word": "camisa",
+                    "start": "1.536"
+                },
+                {
+                    "end": "4.555",
+                    "word": "oveja",
+                    "start": "3.046"
+                },
+                {
+                    "end": "6.169",
+                    "word": "tiburón",
+                    "start": "4.555"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "Cynthia Harrison Barbera||Translator||StoryWorld & Pixabay",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_SHX_cover_p1.png",
+            "page_no": "14",
+            "page_type": "credits",
+            "page_type_id": 14,
+            "sw_name": "Credits",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_SHX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 5,\n        \"ES\": 5,\n        \"ZH\": 5,\n        \"VI\": 5,\n        \"AR\": 5,\n        \"KO\": 5,\n        \"DA\": 5,\n        \"PS\": 5,\n        \"TL\": 5,\n        \"BN\": 5,\n        \"PT\": 5,\n        \"HK\": 5,\n        \"TW\": 5\n    },\n    \"title\": {\n        \"EN\": \"SH  sh\",\n        \"ES\": \"SH  sh\",\n        \"ZH\": \"SH  sh\",\n        \"VI\": \"SH  sh\",\n        \"AR\": \"SH  sh\",\n        \"KO\": \"SH  sh\",\n        \"DA\": \"SH  sh\",\n        \"PS\": \"SH  sh\",\n        \"TL\": \"SH  sh\",\n        \"BN\": \"SH  sh\",\n        \"PT\": \"SH  sh\",\n        \"HK\": \"SH  sh\",\n        \"TW\": \"SH  sh\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": [
+                "Written and Narrated by:Cynthia Harrison Barbera",
+                "Translated by:Luis Montiel & Mafe Pulido Duarte",
+                "Illustrated by:StoryWorld & Pixabay"
+            ],
+            "credit_data_trans": [
+                "Escrito y narrado por:Cynthia Harrison Barbera",
+                "Traducido por:Luis Montiel & Mafe Pulido Duarte",
+                "Ilustrado por:StoryWorld & Pixabay"
+            ],
+            "book_name": "LB_SHX"
+        }
+    ]
+}

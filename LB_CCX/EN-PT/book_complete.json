@@ -1,0 +1,944 @@
+{
+    "data": [
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "C c",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "thumbnail.jpg",
+            "page_no": "0",
+            "page_type": "meta",
+            "page_type_id": 1,
+            "sw_name": "Thumbnail",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_CCX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"C c\",\n        \"ES\": \"C c\",\n        \"ZH\": \"C c\",\n        \"VI\": \"C c\",\n        \"AR\": \"C c\",\n        \"KO\": \"C c\",\n        \"DA\": \"C c\",\n        \"PS\": \"C c\",\n        \"TL\": \"C c\",\n        \"BN\": \"C c\",\n        \"PT\": \"C c\",\n        \"HK\": \"C c\",\n        \"TW\": \"C c\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "C c",
+            "en_trans": "c c_c c",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_CCX_cover_p1.png",
+            "page_no": "1",
+            "page_type": "title",
+            "page_type_id": 3,
+            "sw_name": "Title",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "c c_c c",
+            "trans_text": "C c",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_CCX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"C c\",\n        \"ES\": \"C c\",\n        \"ZH\": \"C c\",\n        \"VI\": \"C c\",\n        \"AR\": \"C c\",\n        \"KO\": \"C c\",\n        \"DA\": \"C c\",\n        \"PS\": \"C c\",\n        \"TL\": \"C c\",\n        \"BN\": \"C c\",\n        \"PT\": \"C c\",\n        \"HK\": \"C c\",\n        \"TW\": \"C c\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_1.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.85",
+                    "word": "c c",
+                    "start": "0"
+                },
+                {
+                    "end": "2.85",
+                    "word": "c c",
+                    "start": "2.85"
+                }
+            ],
+            "trans_vocab_audio": "PT_dictionary_1.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.719",
+                    "word": "c c",
+                    "start": "0"
+                },
+                {
+                    "end": "3.44",
+                    "word": "c c",
+                    "start": "1.72"
+                }
+            ],
+            "nar_audio_en": "CCX_narr_CCX_p1.mp3",
+            "nar_audio_trans": "PT_sample_1.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "c c",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "C C",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "cat",
+            "en_trans": "cat_gato",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_CCX_cat_p2.png",
+            "page_no": "2",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "gato_cat",
+            "trans_text": "gato",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_CCX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"C c\",\n        \"ES\": \"C c\",\n        \"ZH\": \"C c\",\n        \"VI\": \"C c\",\n        \"AR\": \"C c\",\n        \"KO\": \"C c\",\n        \"DA\": \"C c\",\n        \"PS\": \"C c\",\n        \"TL\": \"C c\",\n        \"BN\": \"C c\",\n        \"PT\": \"C c\",\n        \"HK\": \"C c\",\n        \"TW\": \"C c\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_2.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.86",
+                    "word": "cat",
+                    "start": "0"
+                },
+                {
+                    "end": "1.86",
+                    "word": "cat",
+                    "start": "1.86"
+                }
+            ],
+            "trans_vocab_audio": "PT_dictionary_2.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.51",
+                    "word": "gato",
+                    "start": "0"
+                },
+                {
+                    "end": "3.02",
+                    "word": "gato",
+                    "start": "1.51"
+                }
+            ],
+            "nar_audio_en": "CCX_narr_cat_p2.mp3",
+            "nar_audio_trans": "PT_sample_2.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "gato",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "cat",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "car",
+            "en_trans": "car_carro",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_CCX_car_p3.png",
+            "page_no": "3",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "carro_car",
+            "trans_text": "carro",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_CCX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"C c\",\n        \"ES\": \"C c\",\n        \"ZH\": \"C c\",\n        \"VI\": \"C c\",\n        \"AR\": \"C c\",\n        \"KO\": \"C c\",\n        \"DA\": \"C c\",\n        \"PS\": \"C c\",\n        \"TL\": \"C c\",\n        \"BN\": \"C c\",\n        \"PT\": \"C c\",\n        \"HK\": \"C c\",\n        \"TW\": \"C c\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_3.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.67",
+                    "word": "car",
+                    "start": "0"
+                },
+                {
+                    "end": "1.67",
+                    "word": "car",
+                    "start": "1.67"
+                }
+            ],
+            "trans_vocab_audio": "PT_dictionary_3.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.457",
+                    "word": "carro",
+                    "start": "0"
+                },
+                {
+                    "end": "2.92",
+                    "word": "carro",
+                    "start": "1.46"
+                }
+            ],
+            "nar_audio_en": "CCX_narr_car_p3.mp3",
+            "nar_audio_trans": "PT_sample_3.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "carro",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "car",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "cow",
+            "en_trans": "cow_vaca",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_CCX_cow_p4.png",
+            "page_no": "4",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "vaca_cow",
+            "trans_text": "vaca",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_CCX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"C c\",\n        \"ES\": \"C c\",\n        \"ZH\": \"C c\",\n        \"VI\": \"C c\",\n        \"AR\": \"C c\",\n        \"KO\": \"C c\",\n        \"DA\": \"C c\",\n        \"PS\": \"C c\",\n        \"TL\": \"C c\",\n        \"BN\": \"C c\",\n        \"PT\": \"C c\",\n        \"HK\": \"C c\",\n        \"TW\": \"C c\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_4.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.77",
+                    "word": "cow",
+                    "start": "0"
+                },
+                {
+                    "end": "1.77",
+                    "word": "cow",
+                    "start": "1.77"
+                }
+            ],
+            "trans_vocab_audio": "PT_dictionary_4.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.536",
+                    "word": "vaca",
+                    "start": "0"
+                },
+                {
+                    "end": "3.08",
+                    "word": "vaca",
+                    "start": "1.54"
+                }
+            ],
+            "nar_audio_en": "CCX_narr_cow_4.mp3",
+            "nar_audio_trans": "PT_sample_4.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "vaca",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "cow",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "corn",
+            "en_trans": "corn_milho",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_CCX_corn_p5.png",
+            "page_no": "5",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "milho_corn",
+            "trans_text": "milho",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_CCX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"C c\",\n        \"ES\": \"C c\",\n        \"ZH\": \"C c\",\n        \"VI\": \"C c\",\n        \"AR\": \"C c\",\n        \"KO\": \"C c\",\n        \"DA\": \"C c\",\n        \"PS\": \"C c\",\n        \"TL\": \"C c\",\n        \"BN\": \"C c\",\n        \"PT\": \"C c\",\n        \"HK\": \"C c\",\n        \"TW\": \"C c\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_5.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.99",
+                    "word": "corn",
+                    "start": "0"
+                },
+                {
+                    "end": "1.99",
+                    "word": "corn",
+                    "start": "1.99"
+                }
+            ],
+            "trans_vocab_audio": "PT_dictionary_5.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.457",
+                    "word": "milho",
+                    "start": "0"
+                },
+                {
+                    "end": "2.92",
+                    "word": "milho",
+                    "start": "1.46"
+                }
+            ],
+            "nar_audio_en": "CCX_narr_corn_p5.mp3",
+            "nar_audio_trans": "PT_sample_5.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "milho",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "corn",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "cage",
+            "en_trans": "cage_gaiola",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_CCX_cage_p6.png",
+            "page_no": "6",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "gaiola_cage",
+            "trans_text": "gaiola",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_CCX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"C c\",\n        \"ES\": \"C c\",\n        \"ZH\": \"C c\",\n        \"VI\": \"C c\",\n        \"AR\": \"C c\",\n        \"KO\": \"C c\",\n        \"DA\": \"C c\",\n        \"PS\": \"C c\",\n        \"TL\": \"C c\",\n        \"BN\": \"C c\",\n        \"PT\": \"C c\",\n        \"HK\": \"C c\",\n        \"TW\": \"C c\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_6.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.79",
+                    "word": "cage",
+                    "start": "0"
+                },
+                {
+                    "end": "1.79",
+                    "word": "cage",
+                    "start": "1.79"
+                }
+            ],
+            "trans_vocab_audio": "PT_dictionary_6.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.693",
+                    "word": "gaiola",
+                    "start": "0"
+                },
+                {
+                    "end": "3.38",
+                    "word": "gaiola",
+                    "start": "1.69"
+                }
+            ],
+            "nar_audio_en": "CCX_narr_cage_6.mp3",
+            "nar_audio_trans": "PT_sample_6.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "gaiola",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "cage",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "candy",
+            "en_trans": "candy_doce",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_CCX_candy_p7.png",
+            "page_no": "7",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "doce_candy",
+            "trans_text": "doce",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_CCX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"C c\",\n        \"ES\": \"C c\",\n        \"ZH\": \"C c\",\n        \"VI\": \"C c\",\n        \"AR\": \"C c\",\n        \"KO\": \"C c\",\n        \"DA\": \"C c\",\n        \"PS\": \"C c\",\n        \"TL\": \"C c\",\n        \"BN\": \"C c\",\n        \"PT\": \"C c\",\n        \"HK\": \"C c\",\n        \"TW\": \"C c\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_7.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.73",
+                    "word": "candy",
+                    "start": "0"
+                },
+                {
+                    "end": "1.73",
+                    "word": "candy",
+                    "start": "1.73"
+                }
+            ],
+            "trans_vocab_audio": "PT_dictionary_7.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.484",
+                    "word": "doce",
+                    "start": "0"
+                },
+                {
+                    "end": "2.96",
+                    "word": "doce",
+                    "start": "1.48"
+                }
+            ],
+            "nar_audio_en": "CCX_narr_candy_p7.mp3",
+            "nar_audio_trans": "PT_sample_7.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "doce",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "candy",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "candy_doce,cage_gaiola,corn_milho,cat_gato",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_CCX_cage_quiz.png",
+            "page_no": "8",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "cage_gaiola",
+            "trans_en": "candy_doce,cage_gaiola,corn_milho,cat_gato",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "PT_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "O que é essa imagem?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_CCX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"C c\",\n        \"ES\": \"C c\",\n        \"ZH\": \"C c\",\n        \"VI\": \"C c\",\n        \"AR\": \"C c\",\n        \"KO\": \"C c\",\n        \"DA\": \"C c\",\n        \"PS\": \"C c\",\n        \"TL\": \"C c\",\n        \"BN\": \"C c\",\n        \"PT\": \"C c\",\n        \"HK\": \"C c\",\n        \"TW\": \"C c\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_8.mp3",
+            "trans_vocab_audio": "PT_choice_8.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.73",
+                    "word": "candy",
+                    "start": "0"
+                },
+                {
+                    "end": "3.52",
+                    "word": "cage",
+                    "start": "1.73"
+                },
+                {
+                    "end": "5.51",
+                    "word": "corn",
+                    "start": "3.52"
+                },
+                {
+                    "end": "7.37",
+                    "word": "cat",
+                    "start": "5.51"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.484",
+                    "word": "doce",
+                    "start": "0"
+                },
+                {
+                    "end": "3.176",
+                    "word": "gaiola",
+                    "start": "1.484"
+                },
+                {
+                    "end": "4.634",
+                    "word": "milho",
+                    "start": "3.176"
+                },
+                {
+                    "end": "6.143",
+                    "word": "gato",
+                    "start": "4.634"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "cat_gato,cow_vaca,corn_milho,car_carro",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_CCX_car_quiz.png",
+            "page_no": "9",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "car_carro",
+            "trans_en": "cat_gato,cow_vaca,corn_milho,car_carro",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "PT_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "O que é essa imagem?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_CCX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"C c\",\n        \"ES\": \"C c\",\n        \"ZH\": \"C c\",\n        \"VI\": \"C c\",\n        \"AR\": \"C c\",\n        \"KO\": \"C c\",\n        \"DA\": \"C c\",\n        \"PS\": \"C c\",\n        \"TL\": \"C c\",\n        \"BN\": \"C c\",\n        \"PT\": \"C c\",\n        \"HK\": \"C c\",\n        \"TW\": \"C c\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_9.mp3",
+            "trans_vocab_audio": "PT_choice_9.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.86",
+                    "word": "cat",
+                    "start": "0"
+                },
+                {
+                    "end": "3.63",
+                    "word": "cow",
+                    "start": "1.86"
+                },
+                {
+                    "end": "5.62",
+                    "word": "corn",
+                    "start": "3.63"
+                },
+                {
+                    "end": "7.28",
+                    "word": "car",
+                    "start": "5.62"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.51",
+                    "word": "gato",
+                    "start": "0"
+                },
+                {
+                    "end": "3.046",
+                    "word": "vaca",
+                    "start": "1.51"
+                },
+                {
+                    "end": "4.503",
+                    "word": "milho",
+                    "start": "3.046"
+                },
+                {
+                    "end": "5.96",
+                    "word": "carro",
+                    "start": "4.503"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "car_carro,cow_vaca,candy_doce,cage_gaiola",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_CCX_candy_quiz.png",
+            "page_no": "10",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "candy_doce",
+            "trans_en": "car_carro,cow_vaca,candy_doce,cage_gaiola",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "PT_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "O que é essa imagem?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_CCX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"C c\",\n        \"ES\": \"C c\",\n        \"ZH\": \"C c\",\n        \"VI\": \"C c\",\n        \"AR\": \"C c\",\n        \"KO\": \"C c\",\n        \"DA\": \"C c\",\n        \"PS\": \"C c\",\n        \"TL\": \"C c\",\n        \"BN\": \"C c\",\n        \"PT\": \"C c\",\n        \"HK\": \"C c\",\n        \"TW\": \"C c\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_10.mp3",
+            "trans_vocab_audio": "PT_choice_10.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.67",
+                    "word": "car",
+                    "start": "0"
+                },
+                {
+                    "end": "3.43",
+                    "word": "cow",
+                    "start": "1.67"
+                },
+                {
+                    "end": "5.16",
+                    "word": "candy",
+                    "start": "3.43"
+                },
+                {
+                    "end": "6.95",
+                    "word": "cage",
+                    "start": "5.16"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.457",
+                    "word": "carro",
+                    "start": "0"
+                },
+                {
+                    "end": "2.993",
+                    "word": "vaca",
+                    "start": "1.457"
+                },
+                {
+                    "end": "4.477",
+                    "word": "doce",
+                    "start": "2.993"
+                },
+                {
+                    "end": "6.169",
+                    "word": "gaiola",
+                    "start": "4.477"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "cow_vaca,cage_gaiola,cat_gato,corn_milho",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_CCX_cat_quiz.png",
+            "page_no": "11",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "cat_gato",
+            "trans_en": "cow_vaca,cage_gaiola,cat_gato,corn_milho",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "PT_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "O que é essa imagem?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_CCX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"C c\",\n        \"ES\": \"C c\",\n        \"ZH\": \"C c\",\n        \"VI\": \"C c\",\n        \"AR\": \"C c\",\n        \"KO\": \"C c\",\n        \"DA\": \"C c\",\n        \"PS\": \"C c\",\n        \"TL\": \"C c\",\n        \"BN\": \"C c\",\n        \"PT\": \"C c\",\n        \"HK\": \"C c\",\n        \"TW\": \"C c\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_11.mp3",
+            "trans_vocab_audio": "PT_choice_11.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.77",
+                    "word": "cow",
+                    "start": "0"
+                },
+                {
+                    "end": "3.56",
+                    "word": "cage",
+                    "start": "1.77"
+                },
+                {
+                    "end": "5.42",
+                    "word": "cat",
+                    "start": "3.56"
+                },
+                {
+                    "end": "7.41",
+                    "word": "corn",
+                    "start": "5.42"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.536",
+                    "word": "vaca",
+                    "start": "0"
+                },
+                {
+                    "end": "3.228",
+                    "word": "gaiola",
+                    "start": "1.536"
+                },
+                {
+                    "end": "4.738",
+                    "word": "gato",
+                    "start": "3.228"
+                },
+                {
+                    "end": "6.196",
+                    "word": "milho",
+                    "start": "4.738"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "cow_vaca,corn_milho,cat_gato,car_carro",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_CCX_corn_quiz.png",
+            "page_no": "12",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "corn_milho",
+            "trans_en": "cow_vaca,corn_milho,cat_gato,car_carro",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "PT_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "O que é essa imagem?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_CCX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"C c\",\n        \"ES\": \"C c\",\n        \"ZH\": \"C c\",\n        \"VI\": \"C c\",\n        \"AR\": \"C c\",\n        \"KO\": \"C c\",\n        \"DA\": \"C c\",\n        \"PS\": \"C c\",\n        \"TL\": \"C c\",\n        \"BN\": \"C c\",\n        \"PT\": \"C c\",\n        \"HK\": \"C c\",\n        \"TW\": \"C c\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_12.mp3",
+            "trans_vocab_audio": "PT_choice_12.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.77",
+                    "word": "cow",
+                    "start": "0"
+                },
+                {
+                    "end": "3.75",
+                    "word": "corn",
+                    "start": "1.77"
+                },
+                {
+                    "end": "5.62",
+                    "word": "cat",
+                    "start": "3.75"
+                },
+                {
+                    "end": "7.28",
+                    "word": "car",
+                    "start": "5.62"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.536",
+                    "word": "vaca",
+                    "start": "0"
+                },
+                {
+                    "end": "2.993",
+                    "word": "milho",
+                    "start": "1.536"
+                },
+                {
+                    "end": "4.503",
+                    "word": "gato",
+                    "start": "2.993"
+                },
+                {
+                    "end": "5.96",
+                    "word": "carro",
+                    "start": "4.503"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "candy_doce,cow_vaca,cat_gato,corn_milho",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_CCX_cow_quiz.png",
+            "page_no": "13",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "cow_vaca",
+            "trans_en": "candy_doce,cow_vaca,cat_gato,corn_milho",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "PT_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "O que é essa imagem?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_CCX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"C c\",\n        \"ES\": \"C c\",\n        \"ZH\": \"C c\",\n        \"VI\": \"C c\",\n        \"AR\": \"C c\",\n        \"KO\": \"C c\",\n        \"DA\": \"C c\",\n        \"PS\": \"C c\",\n        \"TL\": \"C c\",\n        \"BN\": \"C c\",\n        \"PT\": \"C c\",\n        \"HK\": \"C c\",\n        \"TW\": \"C c\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_13.mp3",
+            "trans_vocab_audio": "PT_choice_13.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.73",
+                    "word": "candy",
+                    "start": "0"
+                },
+                {
+                    "end": "3.5",
+                    "word": "cow",
+                    "start": "1.73"
+                },
+                {
+                    "end": "5.36",
+                    "word": "cat",
+                    "start": "3.5"
+                },
+                {
+                    "end": "7.35",
+                    "word": "corn",
+                    "start": "5.36"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.484",
+                    "word": "doce",
+                    "start": "0"
+                },
+                {
+                    "end": "3.019",
+                    "word": "vaca",
+                    "start": "1.484"
+                },
+                {
+                    "end": "4.529",
+                    "word": "gato",
+                    "start": "3.019"
+                },
+                {
+                    "end": "5.987",
+                    "word": "milho",
+                    "start": "4.529"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "Cynthia Harrison Barbera||Translator||StoryWorld & Pixabay",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_CCX_cover_p1.png",
+            "page_no": "14",
+            "page_type": "credits",
+            "page_type_id": 14,
+            "sw_name": "Credits",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_CCX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"C c\",\n        \"ES\": \"C c\",\n        \"ZH\": \"C c\",\n        \"VI\": \"C c\",\n        \"AR\": \"C c\",\n        \"KO\": \"C c\",\n        \"DA\": \"C c\",\n        \"PS\": \"C c\",\n        \"TL\": \"C c\",\n        \"BN\": \"C c\",\n        \"PT\": \"C c\",\n        \"HK\": \"C c\",\n        \"TW\": \"C c\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": [
+                "Written and Narrated by:Cynthia Harrison Barbera",
+                "Translated by:Diego Dauer",
+                "Illustrated by:StoryWorld & Pixabay"
+            ],
+            "credit_data_trans": [
+                "Escrito e narrado por:Cynthia Harrison Barbera",
+                "Traduzido por:Diego Dauer",
+                "Ilustrado por:StoryWorld & Pixabay"
+            ],
+            "book_name": "LB_CCX"
+        }
+    ]
+}
