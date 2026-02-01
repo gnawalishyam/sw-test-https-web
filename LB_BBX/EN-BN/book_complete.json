@@ -1,0 +1,944 @@
+{
+    "data": [
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "B b",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "thumbnail.jpg",
+            "page_no": "0",
+            "page_type": "meta",
+            "page_type_id": 1,
+            "sw_name": "Thumbnail",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_BBX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"B b\",\n        \"ES\": \"B b\",\n        \"ZH\": \"B b\",\n        \"VI\": \"B b\",\n        \"AR\": \"B b\",\n        \"KO\": \"B b\",\n        \"DA\": \"B b\",\n        \"PS\": \"B b\",\n        \"TL\": \"B b\",\n        \"BN\": \"B b\",\n        \"PT\": \"B b\",\n        \"HK\": \"B b\",\n        \"TW\": \"B b\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "B b",
+            "en_trans": "b b_b b",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_BBX_cover_p1.png",
+            "page_no": "1",
+            "page_type": "title",
+            "page_type_id": 3,
+            "sw_name": "Title",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "b b_b b",
+            "trans_text": "B b",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_BBX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"B b\",\n        \"ES\": \"B b\",\n        \"ZH\": \"B b\",\n        \"VI\": \"B b\",\n        \"AR\": \"B b\",\n        \"KO\": \"B b\",\n        \"DA\": \"B b\",\n        \"PS\": \"B b\",\n        \"TL\": \"B b\",\n        \"BN\": \"B b\",\n        \"PT\": \"B b\",\n        \"HK\": \"B b\",\n        \"TW\": \"B b\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_1.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.78",
+                    "word": "b b",
+                    "start": "0"
+                },
+                {
+                    "end": "2.78",
+                    "word": "b b",
+                    "start": "2.78"
+                }
+            ],
+            "trans_vocab_audio": "BN_dictionary_1.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.684",
+                    "word": "b b",
+                    "start": "0"
+                },
+                {
+                    "end": "3.36",
+                    "word": "b b",
+                    "start": "1.68"
+                }
+            ],
+            "nar_audio_en": "BBX_narr_Bb_p1.mp3",
+            "nar_audio_trans": "BN_sample_1.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "b b",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "B B",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "ball",
+            "en_trans": "ball_বল",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_BBX_ball_p2.png",
+            "page_no": "2",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "বল_ball",
+            "trans_text": "বল",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_BBX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"B b\",\n        \"ES\": \"B b\",\n        \"ZH\": \"B b\",\n        \"VI\": \"B b\",\n        \"AR\": \"B b\",\n        \"KO\": \"B b\",\n        \"DA\": \"B b\",\n        \"PS\": \"B b\",\n        \"TL\": \"B b\",\n        \"BN\": \"B b\",\n        \"PT\": \"B b\",\n        \"HK\": \"B b\",\n        \"TW\": \"B b\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_2.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.58",
+                    "word": "ball",
+                    "start": "0"
+                },
+                {
+                    "end": "1.58",
+                    "word": "ball",
+                    "start": "1.58"
+                }
+            ],
+            "trans_vocab_audio": "BN_dictionary_2.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.636",
+                    "word": "বল",
+                    "start": "0"
+                },
+                {
+                    "end": "3.28",
+                    "word": "বল",
+                    "start": "1.64"
+                }
+            ],
+            "nar_audio_en": "BBX_narr_ball_p2.mp3",
+            "nar_audio_trans": "BN_sample_2.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "বল",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "ball",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "bell",
+            "en_trans": "bell_ঘণ্টা",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_BBX_bell_p3.png",
+            "page_no": "3",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "ঘণ্টা_bell",
+            "trans_text": "ঘণ্টা",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_BBX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"B b\",\n        \"ES\": \"B b\",\n        \"ZH\": \"B b\",\n        \"VI\": \"B b\",\n        \"AR\": \"B b\",\n        \"KO\": \"B b\",\n        \"DA\": \"B b\",\n        \"PS\": \"B b\",\n        \"TL\": \"B b\",\n        \"BN\": \"B b\",\n        \"PT\": \"B b\",\n        \"HK\": \"B b\",\n        \"TW\": \"B b\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_3.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.61",
+                    "word": "bell",
+                    "start": "0"
+                },
+                {
+                    "end": "1.61",
+                    "word": "bell",
+                    "start": "1.61"
+                }
+            ],
+            "trans_vocab_audio": "BN_dictionary_3.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.948",
+                    "word": "ঘণ্টা",
+                    "start": "0"
+                },
+                {
+                    "end": "3.9",
+                    "word": "ঘণ্টা",
+                    "start": "1.95"
+                }
+            ],
+            "nar_audio_en": "BBX_narr_bell_p3.mp3",
+            "nar_audio_trans": "BN_sample_3.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "ঘণ্টা",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "bell",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "baby",
+            "en_trans": "baby_শিশু",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_BBX_baby_p4.png",
+            "page_no": "4",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "শিশু_baby",
+            "trans_text": "শিশু",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_BBX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"B b\",\n        \"ES\": \"B b\",\n        \"ZH\": \"B b\",\n        \"VI\": \"B b\",\n        \"AR\": \"B b\",\n        \"KO\": \"B b\",\n        \"DA\": \"B b\",\n        \"PS\": \"B b\",\n        \"TL\": \"B b\",\n        \"BN\": \"B b\",\n        \"PT\": \"B b\",\n        \"HK\": \"B b\",\n        \"TW\": \"B b\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_4.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.69",
+                    "word": "baby",
+                    "start": "0"
+                },
+                {
+                    "end": "1.69",
+                    "word": "baby",
+                    "start": "1.69"
+                }
+            ],
+            "trans_vocab_audio": "BN_dictionary_4.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.828",
+                    "word": "শিশু",
+                    "start": "0"
+                },
+                {
+                    "end": "3.66",
+                    "word": "শিশু",
+                    "start": "1.83"
+                }
+            ],
+            "nar_audio_en": "BBX_narr_baby_p4.mp3",
+            "nar_audio_trans": "BN_sample_4.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "শিশু",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "baby",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "bird",
+            "en_trans": "bird_পাখি",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_BBX_bird_p5.png",
+            "page_no": "5",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "পাখি_bird",
+            "trans_text": "পাখি",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_BBX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"B b\",\n        \"ES\": \"B b\",\n        \"ZH\": \"B b\",\n        \"VI\": \"B b\",\n        \"AR\": \"B b\",\n        \"KO\": \"B b\",\n        \"DA\": \"B b\",\n        \"PS\": \"B b\",\n        \"TL\": \"B b\",\n        \"BN\": \"B b\",\n        \"PT\": \"B b\",\n        \"HK\": \"B b\",\n        \"TW\": \"B b\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_5.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.63",
+                    "word": "bird",
+                    "start": "0"
+                },
+                {
+                    "end": "1.63",
+                    "word": "bird",
+                    "start": "1.63"
+                }
+            ],
+            "trans_vocab_audio": "BN_dictionary_5.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.684",
+                    "word": "পাখি",
+                    "start": "0"
+                },
+                {
+                    "end": "3.36",
+                    "word": "পাখি",
+                    "start": "1.68"
+                }
+            ],
+            "nar_audio_en": "BBX_narr_bird_p5.mp3",
+            "nar_audio_trans": "BN_sample_5.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "পাখি",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "bird",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "bed",
+            "en_trans": "bed_বিছানা",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_BBX_bed_p6.png",
+            "page_no": "6",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "বিছানা_bed",
+            "trans_text": "বিছানা",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_BBX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"B b\",\n        \"ES\": \"B b\",\n        \"ZH\": \"B b\",\n        \"VI\": \"B b\",\n        \"AR\": \"B b\",\n        \"KO\": \"B b\",\n        \"DA\": \"B b\",\n        \"PS\": \"B b\",\n        \"TL\": \"B b\",\n        \"BN\": \"B b\",\n        \"PT\": \"B b\",\n        \"HK\": \"B b\",\n        \"TW\": \"B b\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_6.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.58",
+                    "word": "bed",
+                    "start": "0"
+                },
+                {
+                    "end": "1.58",
+                    "word": "bed",
+                    "start": "1.58"
+                }
+            ],
+            "trans_vocab_audio": "BN_dictionary_6.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.852",
+                    "word": "বিছানা",
+                    "start": "0"
+                },
+                {
+                    "end": "3.7",
+                    "word": "বিছানা",
+                    "start": "1.85"
+                }
+            ],
+            "nar_audio_en": "BBX_narr_bed_p6.mp3",
+            "nar_audio_trans": "BN_sample_6.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "বিছানা",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "bed",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "body",
+            "en_trans": "body_শরীর",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_BBX_body_p7.png",
+            "page_no": "7",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "শরীর_body",
+            "trans_text": "শরীর",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_BBX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"B b\",\n        \"ES\": \"B b\",\n        \"ZH\": \"B b\",\n        \"VI\": \"B b\",\n        \"AR\": \"B b\",\n        \"KO\": \"B b\",\n        \"DA\": \"B b\",\n        \"PS\": \"B b\",\n        \"TL\": \"B b\",\n        \"BN\": \"B b\",\n        \"PT\": \"B b\",\n        \"HK\": \"B b\",\n        \"TW\": \"B b\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_7.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.56",
+                    "word": "body",
+                    "start": "0"
+                },
+                {
+                    "end": "1.56",
+                    "word": "body",
+                    "start": "1.56"
+                }
+            ],
+            "trans_vocab_audio": "BN_dictionary_7.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.756",
+                    "word": "শরীর",
+                    "start": "0"
+                },
+                {
+                    "end": "3.52",
+                    "word": "শরীর",
+                    "start": "1.76"
+                }
+            ],
+            "nar_audio_en": "BBX_narr_body_p7.mp3",
+            "nar_audio_trans": "BN_sample_7.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "শরীর",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "body",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "bell_ঘণ্টা,bird_পাখি,ball_বল,body_শরীর",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_BBX_body_quiz.png",
+            "page_no": "8",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "body_শরীর",
+            "trans_en": "bell_ঘণ্টা,bird_পাখি,ball_বল,body_শরীর",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "BN_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "এই ছবিটি কীসের?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_BBX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"B b\",\n        \"ES\": \"B b\",\n        \"ZH\": \"B b\",\n        \"VI\": \"B b\",\n        \"AR\": \"B b\",\n        \"KO\": \"B b\",\n        \"DA\": \"B b\",\n        \"PS\": \"B b\",\n        \"TL\": \"B b\",\n        \"BN\": \"B b\",\n        \"PT\": \"B b\",\n        \"HK\": \"B b\",\n        \"TW\": \"B b\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_8.mp3",
+            "trans_vocab_audio": "BN_choice_8.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.61",
+                    "word": "bell",
+                    "start": "0"
+                },
+                {
+                    "end": "3.24",
+                    "word": "bird",
+                    "start": "1.61"
+                },
+                {
+                    "end": "4.82",
+                    "word": "ball",
+                    "start": "3.24"
+                },
+                {
+                    "end": "6.38",
+                    "word": "body",
+                    "start": "4.82"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.948",
+                    "word": "ঘণ্টা",
+                    "start": "0"
+                },
+                {
+                    "end": "3.632",
+                    "word": "পাখি",
+                    "start": "1.948"
+                },
+                {
+                    "end": "5.268",
+                    "word": "বল",
+                    "start": "3.632"
+                },
+                {
+                    "end": "7.024",
+                    "word": "শরীর",
+                    "start": "5.268"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "ball_বল,bell_ঘণ্টা,body_শরীর,baby_শিশু",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_BBX_bell_quiz.png",
+            "page_no": "9",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "bell_ঘণ্টা",
+            "trans_en": "ball_বল,bell_ঘণ্টা,body_শরীর,baby_শিশু",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "BN_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "এই ছবিটি কীসের?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_BBX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"B b\",\n        \"ES\": \"B b\",\n        \"ZH\": \"B b\",\n        \"VI\": \"B b\",\n        \"AR\": \"B b\",\n        \"KO\": \"B b\",\n        \"DA\": \"B b\",\n        \"PS\": \"B b\",\n        \"TL\": \"B b\",\n        \"BN\": \"B b\",\n        \"PT\": \"B b\",\n        \"HK\": \"B b\",\n        \"TW\": \"B b\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_9.mp3",
+            "trans_vocab_audio": "BN_choice_9.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.58",
+                    "word": "ball",
+                    "start": "0"
+                },
+                {
+                    "end": "3.18",
+                    "word": "bell",
+                    "start": "1.58"
+                },
+                {
+                    "end": "4.74",
+                    "word": "body",
+                    "start": "3.18"
+                },
+                {
+                    "end": "6.43",
+                    "word": "baby",
+                    "start": "4.74"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.636",
+                    "word": "বল",
+                    "start": "0"
+                },
+                {
+                    "end": "3.584",
+                    "word": "ঘণ্টা",
+                    "start": "1.636"
+                },
+                {
+                    "end": "5.34",
+                    "word": "শরীর",
+                    "start": "3.584"
+                },
+                {
+                    "end": "7.168",
+                    "word": "শিশু",
+                    "start": "5.34"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "bed_বিছানা,baby_শিশু,body_শরীর,ball_বল",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_BBX_baby_quiz.png",
+            "page_no": "10",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "baby_শিশু",
+            "trans_en": "bed_বিছানা,baby_শিশু,body_শরীর,ball_বল",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "BN_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "এই ছবিটি কীসের?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_BBX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"B b\",\n        \"ES\": \"B b\",\n        \"ZH\": \"B b\",\n        \"VI\": \"B b\",\n        \"AR\": \"B b\",\n        \"KO\": \"B b\",\n        \"DA\": \"B b\",\n        \"PS\": \"B b\",\n        \"TL\": \"B b\",\n        \"BN\": \"B b\",\n        \"PT\": \"B b\",\n        \"HK\": \"B b\",\n        \"TW\": \"B b\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_10.mp3",
+            "trans_vocab_audio": "BN_choice_10.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.58",
+                    "word": "bed",
+                    "start": "0"
+                },
+                {
+                    "end": "3.26",
+                    "word": "baby",
+                    "start": "1.58"
+                },
+                {
+                    "end": "4.82",
+                    "word": "body",
+                    "start": "3.26"
+                },
+                {
+                    "end": "6.4",
+                    "word": "ball",
+                    "start": "4.82"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.852",
+                    "word": "বিছানা",
+                    "start": "0"
+                },
+                {
+                    "end": "3.68",
+                    "word": "শিশু",
+                    "start": "1.852"
+                },
+                {
+                    "end": "5.436",
+                    "word": "শরীর",
+                    "start": "3.68"
+                },
+                {
+                    "end": "7.072",
+                    "word": "বল",
+                    "start": "5.436"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "bell_ঘণ্টা,bed_বিছানা,ball_বল,bird_পাখি",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_BBX_bed_quiz.png",
+            "page_no": "11",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "bed_বিছানা",
+            "trans_en": "bell_ঘণ্টা,bed_বিছানা,ball_বল,bird_পাখি",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "BN_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "এই ছবিটি কীসের?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_BBX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"B b\",\n        \"ES\": \"B b\",\n        \"ZH\": \"B b\",\n        \"VI\": \"B b\",\n        \"AR\": \"B b\",\n        \"KO\": \"B b\",\n        \"DA\": \"B b\",\n        \"PS\": \"B b\",\n        \"TL\": \"B b\",\n        \"BN\": \"B b\",\n        \"PT\": \"B b\",\n        \"HK\": \"B b\",\n        \"TW\": \"B b\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_11.mp3",
+            "trans_vocab_audio": "BN_choice_11.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.61",
+                    "word": "bell",
+                    "start": "0"
+                },
+                {
+                    "end": "3.18",
+                    "word": "bed",
+                    "start": "1.61"
+                },
+                {
+                    "end": "4.76",
+                    "word": "ball",
+                    "start": "3.18"
+                },
+                {
+                    "end": "6.39",
+                    "word": "bird",
+                    "start": "4.76"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.948",
+                    "word": "ঘণ্টা",
+                    "start": "0"
+                },
+                {
+                    "end": "3.8",
+                    "word": "বিছানা",
+                    "start": "1.948"
+                },
+                {
+                    "end": "5.436",
+                    "word": "বল",
+                    "start": "3.8"
+                },
+                {
+                    "end": "7.12",
+                    "word": "পাখি",
+                    "start": "5.436"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "baby_শিশু,body_শরীর,bird_পাখি,ball_বল",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_BBX_ball_quiz.png",
+            "page_no": "12",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "ball_বল",
+            "trans_en": "baby_শিশু,body_শরীর,bird_পাখি,ball_বল",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "BN_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "এই ছবিটি কীসের?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_BBX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"B b\",\n        \"ES\": \"B b\",\n        \"ZH\": \"B b\",\n        \"VI\": \"B b\",\n        \"AR\": \"B b\",\n        \"KO\": \"B b\",\n        \"DA\": \"B b\",\n        \"PS\": \"B b\",\n        \"TL\": \"B b\",\n        \"BN\": \"B b\",\n        \"PT\": \"B b\",\n        \"HK\": \"B b\",\n        \"TW\": \"B b\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_12.mp3",
+            "trans_vocab_audio": "BN_choice_12.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.69",
+                    "word": "baby",
+                    "start": "0"
+                },
+                {
+                    "end": "3.25",
+                    "word": "body",
+                    "start": "1.69"
+                },
+                {
+                    "end": "4.88",
+                    "word": "bird",
+                    "start": "3.25"
+                },
+                {
+                    "end": "6.46",
+                    "word": "ball",
+                    "start": "4.88"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.828",
+                    "word": "শিশু",
+                    "start": "0"
+                },
+                {
+                    "end": "3.584",
+                    "word": "শরীর",
+                    "start": "1.828"
+                },
+                {
+                    "end": "5.268",
+                    "word": "পাখি",
+                    "start": "3.584"
+                },
+                {
+                    "end": "6.904",
+                    "word": "বল",
+                    "start": "5.268"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "10",
+            "en_text": "What is this picture?",
+            "en_trans": "body_শরীর,ball_বল,bed_বিছানা,bird_পাখি",
+            "en_headline_id": 1,
+            "trans_headline_id": 1,
+            "image": "LB_BBX_bird_quiz.png",
+            "page_no": "13",
+            "page_type": "game-comprehension",
+            "page_type_id": 4,
+            "sw_name": "Comp-Vocab",
+            "skill": "read",
+            "trans_answer": "bird_পাখি",
+            "trans_en": "body_শরীর,ball_বল,bed_বিছানা,bird_পাখি",
+            "trans_text": "",
+            "en_headline_audio": "EN_headline_1.mp3",
+            "trans_headline_audio": "BN_headline_1.mp3",
+            "en_headline_text": "What is this picture?",
+            "trans_headline_text": "এই ছবিটি কীসের?",
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_BBX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"B b\",\n        \"ES\": \"B b\",\n        \"ZH\": \"B b\",\n        \"VI\": \"B b\",\n        \"AR\": \"B b\",\n        \"KO\": \"B b\",\n        \"DA\": \"B b\",\n        \"PS\": \"B b\",\n        \"TL\": \"B b\",\n        \"BN\": \"B b\",\n        \"PT\": \"B b\",\n        \"HK\": \"B b\",\n        \"TW\": \"B b\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_choice_13.mp3",
+            "trans_vocab_audio": "BN_choice_13.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.56",
+                    "word": "body",
+                    "start": "0"
+                },
+                {
+                    "end": "3.14",
+                    "word": "ball",
+                    "start": "1.56"
+                },
+                {
+                    "end": "4.71",
+                    "word": "bed",
+                    "start": "3.14"
+                },
+                {
+                    "end": "6.35",
+                    "word": "bird",
+                    "start": "4.71"
+                }
+            ],
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.756",
+                    "word": "শরীর",
+                    "start": "0"
+                },
+                {
+                    "end": "3.392",
+                    "word": "বল",
+                    "start": "1.756"
+                },
+                {
+                    "end": "5.244",
+                    "word": "বিছানা",
+                    "start": "3.392"
+                },
+                {
+                    "end": "6.928",
+                    "word": "পাখি",
+                    "start": "5.244"
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "Cynthia Harrison Barbera||Translator||StoryWorld & Pixabay",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_BBX_cover_p1.png",
+            "page_no": "14",
+            "page_type": "credits",
+            "page_type_id": 14,
+            "sw_name": "Credits",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_BBX\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 2,\n        \"ES\": 2,\n        \"ZH\": 2,\n        \"VI\": 2,\n        \"AR\": 2,\n        \"KO\": 2,\n        \"DA\": 2,\n        \"PS\": 2,\n        \"TL\": 2,\n        \"BN\": 2,\n        \"PT\": 2,\n        \"HK\": 2,\n        \"TW\": 2\n    },\n    \"title\": {\n        \"EN\": \"B b\",\n        \"ES\": \"B b\",\n        \"ZH\": \"B b\",\n        \"VI\": \"B b\",\n        \"AR\": \"B b\",\n        \"KO\": \"B b\",\n        \"DA\": \"B b\",\n        \"PS\": \"B b\",\n        \"TL\": \"B b\",\n        \"BN\": \"B b\",\n        \"PT\": \"B b\",\n        \"HK\": \"B b\",\n        \"TW\": \"B b\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": [
+                "Written and Narrated by:Cynthia Harrison Barbera",
+                "Translated by:Mansura Akter",
+                "Illustrated by:StoryWorld & Pixabay"
+            ],
+            "credit_data_trans": [
+                "লিখিত এবং দ্বারা বর্ণিত:Cynthia Harrison Barbera",
+                "অনুবাদিত:Mansura Akter",
+                "দ্বারা চিত্রিত:StoryWorld & Pixabay"
+            ],
+            "book_name": "LB_BBX"
+        }
+    ]
+}

@@ -1,0 +1,1818 @@
+{
+    "data": [
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "alphabet",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "thumbnail.jpg",
+            "page_no": "0",
+            "page_type": "meta",
+            "page_type_id": 1,
+            "sw_name": "Thumbnail",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_ALP\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 1,\n        \"ES\": 1,\n        \"ZH\": 1,\n        \"VI\": 1,\n        \"AR\": 1,\n        \"KO\": 1,\n        \"DA\": 1,\n        \"PS\": 1,\n        \"TL\": 1,\n        \"BN\": 1,\n        \"PT\": 1,\n        \"HK\": 1,\n        \"TW\": 1\n    },\n    \"title\": {\n        \"EN\": \"Alphabet Book\",\n        \"ES\": \"Alphabet Book\",\n        \"ZH\": \"Alphabet Book\",\n        \"VI\": \"Alphabet Book\",\n        \"AR\": \"Alphabet Book\",\n        \"KO\": \"Alphabet Book\",\n        \"DA\": \"Alphabet Book\",\n        \"PS\": \"Alphabet Book\",\n        \"TL\": \"Alphabet Book\",\n        \"BN\": \"Alphabet Book\",\n        \"PT\": \"Alphabet Book\",\n        \"HK\": \"Alphabet Book\",\n        \"TW\": \"Alphabet Book\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "alphabet",
+            "en_trans": "alphabet_alphabet",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_ALP_cover.png",
+            "page_no": "1",
+            "page_type": "title",
+            "page_type_id": 3,
+            "sw_name": "Title",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "alphabet_alphabet",
+            "trans_text": "alphabet",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_ALP\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 1,\n        \"ES\": 1,\n        \"ZH\": 1,\n        \"VI\": 1,\n        \"AR\": 1,\n        \"KO\": 1,\n        \"DA\": 1,\n        \"PS\": 1,\n        \"TL\": 1,\n        \"BN\": 1,\n        \"PT\": 1,\n        \"HK\": 1,\n        \"TW\": 1\n    },\n    \"title\": {\n        \"EN\": \"Alphabet Book\",\n        \"ES\": \"Alphabet Book\",\n        \"ZH\": \"Alphabet Book\",\n        \"VI\": \"Alphabet Book\",\n        \"AR\": \"Alphabet Book\",\n        \"KO\": \"Alphabet Book\",\n        \"DA\": \"Alphabet Book\",\n        \"PS\": \"Alphabet Book\",\n        \"TL\": \"Alphabet Book\",\n        \"BN\": \"Alphabet Book\",\n        \"PT\": \"Alphabet Book\",\n        \"HK\": \"Alphabet Book\",\n        \"TW\": \"Alphabet Book\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_1.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.84",
+                    "word": "alphabet",
+                    "start": "0"
+                },
+                {
+                    "end": "1.84",
+                    "word": "alphabet",
+                    "start": "1.84"
+                }
+            ],
+            "trans_vocab_audio": "AR_dictionary_1.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.756",
+                    "word": "alphabet",
+                    "start": "0"
+                },
+                {
+                    "end": "3.52",
+                    "word": "alphabet",
+                    "start": "1.76"
+                }
+            ],
+            "nar_audio_en": "ALP_narr_Alphabet_p1.mp3",
+            "nar_audio_trans": "AR_sample_1.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "alphabet",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "alphabet",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "apple",
+            "en_trans": "apple_تفاح",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_ALP_p2.png",
+            "page_no": "2",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "تفاح_apple",
+            "trans_text": "تفاح",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_ALP\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 1,\n        \"ES\": 1,\n        \"ZH\": 1,\n        \"VI\": 1,\n        \"AR\": 1,\n        \"KO\": 1,\n        \"DA\": 1,\n        \"PS\": 1,\n        \"TL\": 1,\n        \"BN\": 1,\n        \"PT\": 1,\n        \"HK\": 1,\n        \"TW\": 1\n    },\n    \"title\": {\n        \"EN\": \"Alphabet Book\",\n        \"ES\": \"Alphabet Book\",\n        \"ZH\": \"Alphabet Book\",\n        \"VI\": \"Alphabet Book\",\n        \"AR\": \"Alphabet Book\",\n        \"KO\": \"Alphabet Book\",\n        \"DA\": \"Alphabet Book\",\n        \"PS\": \"Alphabet Book\",\n        \"TL\": \"Alphabet Book\",\n        \"BN\": \"Alphabet Book\",\n        \"PT\": \"Alphabet Book\",\n        \"HK\": \"Alphabet Book\",\n        \"TW\": \"Alphabet Book\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_2.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.61",
+                    "word": "apple",
+                    "start": "0"
+                },
+                {
+                    "end": "1.61",
+                    "word": "apple",
+                    "start": "1.61"
+                }
+            ],
+            "trans_vocab_audio": "AR_dictionary_2.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.092",
+                    "word": "تفاح",
+                    "start": "0"
+                },
+                {
+                    "end": "4.18",
+                    "word": "تفاح",
+                    "start": "2.09"
+                }
+            ],
+            "nar_audio_en": "ALP_narr_A_p2.mp3",
+            "nar_audio_trans": "AR_sample_2.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "تفاح",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "apple",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "bear",
+            "en_trans": "bear_دب",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_ALP_p3.png",
+            "page_no": "3",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "دب_bear",
+            "trans_text": "دب",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_ALP\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 1,\n        \"ES\": 1,\n        \"ZH\": 1,\n        \"VI\": 1,\n        \"AR\": 1,\n        \"KO\": 1,\n        \"DA\": 1,\n        \"PS\": 1,\n        \"TL\": 1,\n        \"BN\": 1,\n        \"PT\": 1,\n        \"HK\": 1,\n        \"TW\": 1\n    },\n    \"title\": {\n        \"EN\": \"Alphabet Book\",\n        \"ES\": \"Alphabet Book\",\n        \"ZH\": \"Alphabet Book\",\n        \"VI\": \"Alphabet Book\",\n        \"AR\": \"Alphabet Book\",\n        \"KO\": \"Alphabet Book\",\n        \"DA\": \"Alphabet Book\",\n        \"PS\": \"Alphabet Book\",\n        \"TL\": \"Alphabet Book\",\n        \"BN\": \"Alphabet Book\",\n        \"PT\": \"Alphabet Book\",\n        \"HK\": \"Alphabet Book\",\n        \"TW\": \"Alphabet Book\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_3.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.44",
+                    "word": "bear",
+                    "start": "0"
+                },
+                {
+                    "end": "1.44",
+                    "word": "bear",
+                    "start": "1.44"
+                }
+            ],
+            "trans_vocab_audio": "AR_dictionary_3.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.42",
+                    "word": "دب",
+                    "start": "0"
+                },
+                {
+                    "end": "2.84",
+                    "word": "دب",
+                    "start": "1.42"
+                }
+            ],
+            "nar_audio_en": "ALP_narr_B_p3.mp3",
+            "nar_audio_trans": "AR_sample_3.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "دب",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "bear",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "cookie",
+            "en_trans": "cookie_بسكويت",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_ALP_p4.png",
+            "page_no": "4",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "بسكويت_cookie",
+            "trans_text": "بسكويت",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_ALP\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 1,\n        \"ES\": 1,\n        \"ZH\": 1,\n        \"VI\": 1,\n        \"AR\": 1,\n        \"KO\": 1,\n        \"DA\": 1,\n        \"PS\": 1,\n        \"TL\": 1,\n        \"BN\": 1,\n        \"PT\": 1,\n        \"HK\": 1,\n        \"TW\": 1\n    },\n    \"title\": {\n        \"EN\": \"Alphabet Book\",\n        \"ES\": \"Alphabet Book\",\n        \"ZH\": \"Alphabet Book\",\n        \"VI\": \"Alphabet Book\",\n        \"AR\": \"Alphabet Book\",\n        \"KO\": \"Alphabet Book\",\n        \"DA\": \"Alphabet Book\",\n        \"PS\": \"Alphabet Book\",\n        \"TL\": \"Alphabet Book\",\n        \"BN\": \"Alphabet Book\",\n        \"PT\": \"Alphabet Book\",\n        \"HK\": \"Alphabet Book\",\n        \"TW\": \"Alphabet Book\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_4.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.42",
+                    "word": "cookie",
+                    "start": "0"
+                },
+                {
+                    "end": "1.42",
+                    "word": "cookie",
+                    "start": "1.42"
+                }
+            ],
+            "trans_vocab_audio": "AR_dictionary_4.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.212",
+                    "word": "بسكويت",
+                    "start": "0"
+                },
+                {
+                    "end": "4.42",
+                    "word": "بسكويت",
+                    "start": "2.21"
+                }
+            ],
+            "nar_audio_en": "ALP_narr_C_p4.mp3",
+            "nar_audio_trans": "AR_sample_4.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "بسكويت",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "cookie",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "dog",
+            "en_trans": "dog_كلب",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_ALP_p5.png",
+            "page_no": "5",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "كلب_dog",
+            "trans_text": "كلب",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_ALP\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 1,\n        \"ES\": 1,\n        \"ZH\": 1,\n        \"VI\": 1,\n        \"AR\": 1,\n        \"KO\": 1,\n        \"DA\": 1,\n        \"PS\": 1,\n        \"TL\": 1,\n        \"BN\": 1,\n        \"PT\": 1,\n        \"HK\": 1,\n        \"TW\": 1\n    },\n    \"title\": {\n        \"EN\": \"Alphabet Book\",\n        \"ES\": \"Alphabet Book\",\n        \"ZH\": \"Alphabet Book\",\n        \"VI\": \"Alphabet Book\",\n        \"AR\": \"Alphabet Book\",\n        \"KO\": \"Alphabet Book\",\n        \"DA\": \"Alphabet Book\",\n        \"PS\": \"Alphabet Book\",\n        \"TL\": \"Alphabet Book\",\n        \"BN\": \"Alphabet Book\",\n        \"PT\": \"Alphabet Book\",\n        \"HK\": \"Alphabet Book\",\n        \"TW\": \"Alphabet Book\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_5.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.73",
+                    "word": "dog",
+                    "start": "0"
+                },
+                {
+                    "end": "1.73",
+                    "word": "dog",
+                    "start": "1.73"
+                }
+            ],
+            "trans_vocab_audio": "AR_dictionary_5.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.732",
+                    "word": "كلب",
+                    "start": "0"
+                },
+                {
+                    "end": "3.46",
+                    "word": "كلب",
+                    "start": "1.73"
+                }
+            ],
+            "nar_audio_en": "ALP_narr_D_p5.mp3",
+            "nar_audio_trans": "AR_sample_5.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "كلب",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "dog",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "elephant",
+            "en_trans": "elephant_فيل",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_ALP_p6.png",
+            "page_no": "6",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "فيل_elephant",
+            "trans_text": "فيل",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_ALP\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 1,\n        \"ES\": 1,\n        \"ZH\": 1,\n        \"VI\": 1,\n        \"AR\": 1,\n        \"KO\": 1,\n        \"DA\": 1,\n        \"PS\": 1,\n        \"TL\": 1,\n        \"BN\": 1,\n        \"PT\": 1,\n        \"HK\": 1,\n        \"TW\": 1\n    },\n    \"title\": {\n        \"EN\": \"Alphabet Book\",\n        \"ES\": \"Alphabet Book\",\n        \"ZH\": \"Alphabet Book\",\n        \"VI\": \"Alphabet Book\",\n        \"AR\": \"Alphabet Book\",\n        \"KO\": \"Alphabet Book\",\n        \"DA\": \"Alphabet Book\",\n        \"PS\": \"Alphabet Book\",\n        \"TL\": \"Alphabet Book\",\n        \"BN\": \"Alphabet Book\",\n        \"PT\": \"Alphabet Book\",\n        \"HK\": \"Alphabet Book\",\n        \"TW\": \"Alphabet Book\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_6.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.82",
+                    "word": "elephant",
+                    "start": "0"
+                },
+                {
+                    "end": "1.82",
+                    "word": "elephant",
+                    "start": "1.82"
+                }
+            ],
+            "trans_vocab_audio": "AR_dictionary_6.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.588",
+                    "word": "فيل",
+                    "start": "0"
+                },
+                {
+                    "end": "3.18",
+                    "word": "فيل",
+                    "start": "1.59"
+                }
+            ],
+            "nar_audio_en": "ALP_narr_E_p6.mp3",
+            "nar_audio_trans": "AR_sample_6.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "فيل",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "elephant",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "fruit",
+            "en_trans": "fruit_فاكهة",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_ALP_p7.png",
+            "page_no": "7",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "فاكهة_fruit",
+            "trans_text": "فاكهة",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_ALP\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 1,\n        \"ES\": 1,\n        \"ZH\": 1,\n        \"VI\": 1,\n        \"AR\": 1,\n        \"KO\": 1,\n        \"DA\": 1,\n        \"PS\": 1,\n        \"TL\": 1,\n        \"BN\": 1,\n        \"PT\": 1,\n        \"HK\": 1,\n        \"TW\": 1\n    },\n    \"title\": {\n        \"EN\": \"Alphabet Book\",\n        \"ES\": \"Alphabet Book\",\n        \"ZH\": \"Alphabet Book\",\n        \"VI\": \"Alphabet Book\",\n        \"AR\": \"Alphabet Book\",\n        \"KO\": \"Alphabet Book\",\n        \"DA\": \"Alphabet Book\",\n        \"PS\": \"Alphabet Book\",\n        \"TL\": \"Alphabet Book\",\n        \"BN\": \"Alphabet Book\",\n        \"PT\": \"Alphabet Book\",\n        \"HK\": \"Alphabet Book\",\n        \"TW\": \"Alphabet Book\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_7.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.64",
+                    "word": "fruit",
+                    "start": "0"
+                },
+                {
+                    "end": "1.64",
+                    "word": "fruit",
+                    "start": "1.64"
+                }
+            ],
+            "trans_vocab_audio": "AR_dictionary_7.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.14",
+                    "word": "فاكهة",
+                    "start": "0"
+                },
+                {
+                    "end": "4.28",
+                    "word": "فاكهة",
+                    "start": "2.14"
+                }
+            ],
+            "nar_audio_en": "ALP_narr_F_p7.mp3",
+            "nar_audio_trans": "AR_sample_7.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "فاكهة",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "fruit",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "goat",
+            "en_trans": "goat_ماعز",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_ALP_p8.png",
+            "page_no": "8",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "ماعز_goat",
+            "trans_text": "ماعز",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_ALP\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 1,\n        \"ES\": 1,\n        \"ZH\": 1,\n        \"VI\": 1,\n        \"AR\": 1,\n        \"KO\": 1,\n        \"DA\": 1,\n        \"PS\": 1,\n        \"TL\": 1,\n        \"BN\": 1,\n        \"PT\": 1,\n        \"HK\": 1,\n        \"TW\": 1\n    },\n    \"title\": {\n        \"EN\": \"Alphabet Book\",\n        \"ES\": \"Alphabet Book\",\n        \"ZH\": \"Alphabet Book\",\n        \"VI\": \"Alphabet Book\",\n        \"AR\": \"Alphabet Book\",\n        \"KO\": \"Alphabet Book\",\n        \"DA\": \"Alphabet Book\",\n        \"PS\": \"Alphabet Book\",\n        \"TL\": \"Alphabet Book\",\n        \"BN\": \"Alphabet Book\",\n        \"PT\": \"Alphabet Book\",\n        \"HK\": \"Alphabet Book\",\n        \"TW\": \"Alphabet Book\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_8.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.54",
+                    "word": "goat",
+                    "start": "0"
+                },
+                {
+                    "end": "1.54",
+                    "word": "goat",
+                    "start": "1.54"
+                }
+            ],
+            "trans_vocab_audio": "AR_dictionary_8.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.972",
+                    "word": "ماعز",
+                    "start": "0"
+                },
+                {
+                    "end": "3.94",
+                    "word": "ماعز",
+                    "start": "1.97"
+                }
+            ],
+            "nar_audio_en": "ALP_narr_G_p8.mp3",
+            "nar_audio_trans": "AR_sample_8.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "ماعز",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "goat",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "heart",
+            "en_trans": "heart_قلب",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_ALP_p9.png",
+            "page_no": "9",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "قلب_heart",
+            "trans_text": "قلب",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_ALP\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 1,\n        \"ES\": 1,\n        \"ZH\": 1,\n        \"VI\": 1,\n        \"AR\": 1,\n        \"KO\": 1,\n        \"DA\": 1,\n        \"PS\": 1,\n        \"TL\": 1,\n        \"BN\": 1,\n        \"PT\": 1,\n        \"HK\": 1,\n        \"TW\": 1\n    },\n    \"title\": {\n        \"EN\": \"Alphabet Book\",\n        \"ES\": \"Alphabet Book\",\n        \"ZH\": \"Alphabet Book\",\n        \"VI\": \"Alphabet Book\",\n        \"AR\": \"Alphabet Book\",\n        \"KO\": \"Alphabet Book\",\n        \"DA\": \"Alphabet Book\",\n        \"PS\": \"Alphabet Book\",\n        \"TL\": \"Alphabet Book\",\n        \"BN\": \"Alphabet Book\",\n        \"PT\": \"Alphabet Book\",\n        \"HK\": \"Alphabet Book\",\n        \"TW\": \"Alphabet Book\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_9.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.64",
+                    "word": "heart",
+                    "start": "0"
+                },
+                {
+                    "end": "1.64",
+                    "word": "heart",
+                    "start": "1.64"
+                }
+            ],
+            "trans_vocab_audio": "AR_dictionary_9.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.756",
+                    "word": "قلب",
+                    "start": "0"
+                },
+                {
+                    "end": "3.52",
+                    "word": "قلب",
+                    "start": "1.76"
+                }
+            ],
+            "nar_audio_en": "ALP_narr_H_p9.mp3",
+            "nar_audio_trans": "AR_sample_9.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "قلب",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "heart",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "insect",
+            "en_trans": "insect_حشرة",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_ALP_p10.png",
+            "page_no": "10",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "حشرة_insect",
+            "trans_text": "حشرة",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_ALP\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 1,\n        \"ES\": 1,\n        \"ZH\": 1,\n        \"VI\": 1,\n        \"AR\": 1,\n        \"KO\": 1,\n        \"DA\": 1,\n        \"PS\": 1,\n        \"TL\": 1,\n        \"BN\": 1,\n        \"PT\": 1,\n        \"HK\": 1,\n        \"TW\": 1\n    },\n    \"title\": {\n        \"EN\": \"Alphabet Book\",\n        \"ES\": \"Alphabet Book\",\n        \"ZH\": \"Alphabet Book\",\n        \"VI\": \"Alphabet Book\",\n        \"AR\": \"Alphabet Book\",\n        \"KO\": \"Alphabet Book\",\n        \"DA\": \"Alphabet Book\",\n        \"PS\": \"Alphabet Book\",\n        \"TL\": \"Alphabet Book\",\n        \"BN\": \"Alphabet Book\",\n        \"PT\": \"Alphabet Book\",\n        \"HK\": \"Alphabet Book\",\n        \"TW\": \"Alphabet Book\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_10.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.76",
+                    "word": "insect",
+                    "start": "0"
+                },
+                {
+                    "end": "1.76",
+                    "word": "insect",
+                    "start": "1.76"
+                }
+            ],
+            "trans_vocab_audio": "AR_dictionary_10.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.02",
+                    "word": "حشرة",
+                    "start": "0"
+                },
+                {
+                    "end": "4.04",
+                    "word": "حشرة",
+                    "start": "2.02"
+                }
+            ],
+            "nar_audio_en": "ALP_narr_I_p10.mp3",
+            "nar_audio_trans": "AR_sample_10.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "حشرة",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "insect",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "jacket",
+            "en_trans": "jacket_سترة",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_ALP_p11.png",
+            "page_no": "11",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "سترة_jacket",
+            "trans_text": "سترة",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_ALP\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 1,\n        \"ES\": 1,\n        \"ZH\": 1,\n        \"VI\": 1,\n        \"AR\": 1,\n        \"KO\": 1,\n        \"DA\": 1,\n        \"PS\": 1,\n        \"TL\": 1,\n        \"BN\": 1,\n        \"PT\": 1,\n        \"HK\": 1,\n        \"TW\": 1\n    },\n    \"title\": {\n        \"EN\": \"Alphabet Book\",\n        \"ES\": \"Alphabet Book\",\n        \"ZH\": \"Alphabet Book\",\n        \"VI\": \"Alphabet Book\",\n        \"AR\": \"Alphabet Book\",\n        \"KO\": \"Alphabet Book\",\n        \"DA\": \"Alphabet Book\",\n        \"PS\": \"Alphabet Book\",\n        \"TL\": \"Alphabet Book\",\n        \"BN\": \"Alphabet Book\",\n        \"PT\": \"Alphabet Book\",\n        \"HK\": \"Alphabet Book\",\n        \"TW\": \"Alphabet Book\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_11.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.6",
+                    "word": "jacket",
+                    "start": "0"
+                },
+                {
+                    "end": "1.6",
+                    "word": "jacket",
+                    "start": "1.6"
+                }
+            ],
+            "trans_vocab_audio": "AR_dictionary_11.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.996",
+                    "word": "سترة",
+                    "start": "0"
+                },
+                {
+                    "end": "4.0",
+                    "word": "سترة",
+                    "start": "2.0"
+                }
+            ],
+            "nar_audio_en": "ALP_narr_J_p11.mp3",
+            "nar_audio_trans": "AR_sample_11.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "سترة",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "jacket",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "kangaroo",
+            "en_trans": "kangaroo_كنغر",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_ALP_p12.png",
+            "page_no": "12",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "كنغر_kangaroo",
+            "trans_text": "كنغر",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_ALP\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 1,\n        \"ES\": 1,\n        \"ZH\": 1,\n        \"VI\": 1,\n        \"AR\": 1,\n        \"KO\": 1,\n        \"DA\": 1,\n        \"PS\": 1,\n        \"TL\": 1,\n        \"BN\": 1,\n        \"PT\": 1,\n        \"HK\": 1,\n        \"TW\": 1\n    },\n    \"title\": {\n        \"EN\": \"Alphabet Book\",\n        \"ES\": \"Alphabet Book\",\n        \"ZH\": \"Alphabet Book\",\n        \"VI\": \"Alphabet Book\",\n        \"AR\": \"Alphabet Book\",\n        \"KO\": \"Alphabet Book\",\n        \"DA\": \"Alphabet Book\",\n        \"PS\": \"Alphabet Book\",\n        \"TL\": \"Alphabet Book\",\n        \"BN\": \"Alphabet Book\",\n        \"PT\": \"Alphabet Book\",\n        \"HK\": \"Alphabet Book\",\n        \"TW\": \"Alphabet Book\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_12.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.83",
+                    "word": "kangaroo",
+                    "start": "0"
+                },
+                {
+                    "end": "1.83",
+                    "word": "kangaroo",
+                    "start": "1.83"
+                }
+            ],
+            "trans_vocab_audio": "AR_dictionary_12.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.612",
+                    "word": "كنغر",
+                    "start": "0"
+                },
+                {
+                    "end": "3.22",
+                    "word": "كنغر",
+                    "start": "1.61"
+                }
+            ],
+            "nar_audio_en": "ALP_narr_K_p12.mp3",
+            "nar_audio_trans": "AR_sample_12.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "كنغر",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "kangaroo",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "lion",
+            "en_trans": "lion_أسد",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_ALP_p13.png",
+            "page_no": "13",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "أسد_lion",
+            "trans_text": "أسد",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_ALP\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 1,\n        \"ES\": 1,\n        \"ZH\": 1,\n        \"VI\": 1,\n        \"AR\": 1,\n        \"KO\": 1,\n        \"DA\": 1,\n        \"PS\": 1,\n        \"TL\": 1,\n        \"BN\": 1,\n        \"PT\": 1,\n        \"HK\": 1,\n        \"TW\": 1\n    },\n    \"title\": {\n        \"EN\": \"Alphabet Book\",\n        \"ES\": \"Alphabet Book\",\n        \"ZH\": \"Alphabet Book\",\n        \"VI\": \"Alphabet Book\",\n        \"AR\": \"Alphabet Book\",\n        \"KO\": \"Alphabet Book\",\n        \"DA\": \"Alphabet Book\",\n        \"PS\": \"Alphabet Book\",\n        \"TL\": \"Alphabet Book\",\n        \"BN\": \"Alphabet Book\",\n        \"PT\": \"Alphabet Book\",\n        \"HK\": \"Alphabet Book\",\n        \"TW\": \"Alphabet Book\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_13.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.86",
+                    "word": "lion",
+                    "start": "0"
+                },
+                {
+                    "end": "1.86",
+                    "word": "lion",
+                    "start": "1.86"
+                }
+            ],
+            "trans_vocab_audio": "AR_dictionary_13.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.78",
+                    "word": "أسد",
+                    "start": "0"
+                },
+                {
+                    "end": "3.56",
+                    "word": "أسد",
+                    "start": "1.78"
+                }
+            ],
+            "nar_audio_en": "ALP_narr_L_p13.mp3",
+            "nar_audio_trans": "AR_sample_13.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "أسد",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "lion",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "monster",
+            "en_trans": "monster_وحش",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_ALP_p14.png",
+            "page_no": "14",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "وحش_monster",
+            "trans_text": "وحش",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_ALP\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 1,\n        \"ES\": 1,\n        \"ZH\": 1,\n        \"VI\": 1,\n        \"AR\": 1,\n        \"KO\": 1,\n        \"DA\": 1,\n        \"PS\": 1,\n        \"TL\": 1,\n        \"BN\": 1,\n        \"PT\": 1,\n        \"HK\": 1,\n        \"TW\": 1\n    },\n    \"title\": {\n        \"EN\": \"Alphabet Book\",\n        \"ES\": \"Alphabet Book\",\n        \"ZH\": \"Alphabet Book\",\n        \"VI\": \"Alphabet Book\",\n        \"AR\": \"Alphabet Book\",\n        \"KO\": \"Alphabet Book\",\n        \"DA\": \"Alphabet Book\",\n        \"PS\": \"Alphabet Book\",\n        \"TL\": \"Alphabet Book\",\n        \"BN\": \"Alphabet Book\",\n        \"PT\": \"Alphabet Book\",\n        \"HK\": \"Alphabet Book\",\n        \"TW\": \"Alphabet Book\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_14.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.86",
+                    "word": "monster",
+                    "start": "0"
+                },
+                {
+                    "end": "1.86",
+                    "word": "monster",
+                    "start": "1.86"
+                }
+            ],
+            "trans_vocab_audio": "AR_dictionary_14.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.828",
+                    "word": "وحش",
+                    "start": "0"
+                },
+                {
+                    "end": "3.66",
+                    "word": "وحش",
+                    "start": "1.83"
+                }
+            ],
+            "nar_audio_en": "ALP_narr_M_p14.mp3",
+            "nar_audio_trans": "AR_sample_14.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "وحش",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "monster",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "numbers",
+            "en_trans": "numbers_أعداد",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_ALP_p15.png",
+            "page_no": "15",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "أعداد_numbers",
+            "trans_text": "أعداد",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_ALP\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 1,\n        \"ES\": 1,\n        \"ZH\": 1,\n        \"VI\": 1,\n        \"AR\": 1,\n        \"KO\": 1,\n        \"DA\": 1,\n        \"PS\": 1,\n        \"TL\": 1,\n        \"BN\": 1,\n        \"PT\": 1,\n        \"HK\": 1,\n        \"TW\": 1\n    },\n    \"title\": {\n        \"EN\": \"Alphabet Book\",\n        \"ES\": \"Alphabet Book\",\n        \"ZH\": \"Alphabet Book\",\n        \"VI\": \"Alphabet Book\",\n        \"AR\": \"Alphabet Book\",\n        \"KO\": \"Alphabet Book\",\n        \"DA\": \"Alphabet Book\",\n        \"PS\": \"Alphabet Book\",\n        \"TL\": \"Alphabet Book\",\n        \"BN\": \"Alphabet Book\",\n        \"PT\": \"Alphabet Book\",\n        \"HK\": \"Alphabet Book\",\n        \"TW\": \"Alphabet Book\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_15.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.95",
+                    "word": "numbers",
+                    "start": "0"
+                },
+                {
+                    "end": "1.95",
+                    "word": "numbers",
+                    "start": "1.95"
+                }
+            ],
+            "trans_vocab_audio": "AR_dictionary_15.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.044",
+                    "word": "أعداد",
+                    "start": "0"
+                },
+                {
+                    "end": "4.08",
+                    "word": "أعداد",
+                    "start": "2.04"
+                }
+            ],
+            "nar_audio_en": "ALP_narr_N_p15.mp3",
+            "nar_audio_trans": "AR_sample_15.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "أعداد",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "numbers",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "octopus",
+            "en_trans": "octopus_أخطبوط",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_ALP_p16.png",
+            "page_no": "16",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "أخطبوط_octopus",
+            "trans_text": "أخطبوط",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_ALP\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 1,\n        \"ES\": 1,\n        \"ZH\": 1,\n        \"VI\": 1,\n        \"AR\": 1,\n        \"KO\": 1,\n        \"DA\": 1,\n        \"PS\": 1,\n        \"TL\": 1,\n        \"BN\": 1,\n        \"PT\": 1,\n        \"HK\": 1,\n        \"TW\": 1\n    },\n    \"title\": {\n        \"EN\": \"Alphabet Book\",\n        \"ES\": \"Alphabet Book\",\n        \"ZH\": \"Alphabet Book\",\n        \"VI\": \"Alphabet Book\",\n        \"AR\": \"Alphabet Book\",\n        \"KO\": \"Alphabet Book\",\n        \"DA\": \"Alphabet Book\",\n        \"PS\": \"Alphabet Book\",\n        \"TL\": \"Alphabet Book\",\n        \"BN\": \"Alphabet Book\",\n        \"PT\": \"Alphabet Book\",\n        \"HK\": \"Alphabet Book\",\n        \"TW\": \"Alphabet Book\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_16.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.94",
+                    "word": "octopus",
+                    "start": "0"
+                },
+                {
+                    "end": "1.94",
+                    "word": "octopus",
+                    "start": "1.94"
+                }
+            ],
+            "trans_vocab_audio": "AR_dictionary_16.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.02",
+                    "word": "أخطبوط",
+                    "start": "0"
+                },
+                {
+                    "end": "4.04",
+                    "word": "أخطبوط",
+                    "start": "2.02"
+                }
+            ],
+            "nar_audio_en": "ALP_narr_O_p16.mp3",
+            "nar_audio_trans": "AR_sample_16.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "أخطبوط",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "octopus",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "pencil",
+            "en_trans": "pencil_قلم رصاص",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_ALP_p17.png",
+            "page_no": "17",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "قلم رصاص_pencil",
+            "trans_text": "قلم رصاص",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_ALP\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 1,\n        \"ES\": 1,\n        \"ZH\": 1,\n        \"VI\": 1,\n        \"AR\": 1,\n        \"KO\": 1,\n        \"DA\": 1,\n        \"PS\": 1,\n        \"TL\": 1,\n        \"BN\": 1,\n        \"PT\": 1,\n        \"HK\": 1,\n        \"TW\": 1\n    },\n    \"title\": {\n        \"EN\": \"Alphabet Book\",\n        \"ES\": \"Alphabet Book\",\n        \"ZH\": \"Alphabet Book\",\n        \"VI\": \"Alphabet Book\",\n        \"AR\": \"Alphabet Book\",\n        \"KO\": \"Alphabet Book\",\n        \"DA\": \"Alphabet Book\",\n        \"PS\": \"Alphabet Book\",\n        \"TL\": \"Alphabet Book\",\n        \"BN\": \"Alphabet Book\",\n        \"PT\": \"Alphabet Book\",\n        \"HK\": \"Alphabet Book\",\n        \"TW\": \"Alphabet Book\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_17.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.57",
+                    "word": "pencil",
+                    "start": "0"
+                },
+                {
+                    "end": "1.57",
+                    "word": "pencil",
+                    "start": "1.57"
+                }
+            ],
+            "trans_vocab_audio": "AR_dictionary_17.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.452",
+                    "word": "قلم رصاص",
+                    "start": "0"
+                },
+                {
+                    "end": "4.9",
+                    "word": "قلم رصاص",
+                    "start": "2.45"
+                }
+            ],
+            "nar_audio_en": "ALP_narr_P_p17.mp3",
+            "nar_audio_trans": "AR_sample_17.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "قلم رصاص",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "pencil",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "queen",
+            "en_trans": "queen_ملكة",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_ALP_p18.png",
+            "page_no": "18",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "ملكة_queen",
+            "trans_text": "ملكة",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_ALP\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 1,\n        \"ES\": 1,\n        \"ZH\": 1,\n        \"VI\": 1,\n        \"AR\": 1,\n        \"KO\": 1,\n        \"DA\": 1,\n        \"PS\": 1,\n        \"TL\": 1,\n        \"BN\": 1,\n        \"PT\": 1,\n        \"HK\": 1,\n        \"TW\": 1\n    },\n    \"title\": {\n        \"EN\": \"Alphabet Book\",\n        \"ES\": \"Alphabet Book\",\n        \"ZH\": \"Alphabet Book\",\n        \"VI\": \"Alphabet Book\",\n        \"AR\": \"Alphabet Book\",\n        \"KO\": \"Alphabet Book\",\n        \"DA\": \"Alphabet Book\",\n        \"PS\": \"Alphabet Book\",\n        \"TL\": \"Alphabet Book\",\n        \"BN\": \"Alphabet Book\",\n        \"PT\": \"Alphabet Book\",\n        \"HK\": \"Alphabet Book\",\n        \"TW\": \"Alphabet Book\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_18.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.63",
+                    "word": "queen",
+                    "start": "0"
+                },
+                {
+                    "end": "1.63",
+                    "word": "queen",
+                    "start": "1.63"
+                }
+            ],
+            "trans_vocab_audio": "AR_dictionary_18.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.948",
+                    "word": "ملكة",
+                    "start": "0"
+                },
+                {
+                    "end": "3.9",
+                    "word": "ملكة",
+                    "start": "1.95"
+                }
+            ],
+            "nar_audio_en": "ALP_narr_Q_p18.mp3",
+            "nar_audio_trans": "AR_sample_18.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "ملكة",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "queen",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "rabbit",
+            "en_trans": "rabbit_أرنب",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_ALP_p19.png",
+            "page_no": "19",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "أرنب_rabbit",
+            "trans_text": "أرنب",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_ALP\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 1,\n        \"ES\": 1,\n        \"ZH\": 1,\n        \"VI\": 1,\n        \"AR\": 1,\n        \"KO\": 1,\n        \"DA\": 1,\n        \"PS\": 1,\n        \"TL\": 1,\n        \"BN\": 1,\n        \"PT\": 1,\n        \"HK\": 1,\n        \"TW\": 1\n    },\n    \"title\": {\n        \"EN\": \"Alphabet Book\",\n        \"ES\": \"Alphabet Book\",\n        \"ZH\": \"Alphabet Book\",\n        \"VI\": \"Alphabet Book\",\n        \"AR\": \"Alphabet Book\",\n        \"KO\": \"Alphabet Book\",\n        \"DA\": \"Alphabet Book\",\n        \"PS\": \"Alphabet Book\",\n        \"TL\": \"Alphabet Book\",\n        \"BN\": \"Alphabet Book\",\n        \"PT\": \"Alphabet Book\",\n        \"HK\": \"Alphabet Book\",\n        \"TW\": \"Alphabet Book\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_19.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.7",
+                    "word": "rabbit",
+                    "start": "0"
+                },
+                {
+                    "end": "1.7",
+                    "word": "rabbit",
+                    "start": "1.7"
+                }
+            ],
+            "trans_vocab_audio": "AR_dictionary_19.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.708",
+                    "word": "أرنب",
+                    "start": "0"
+                },
+                {
+                    "end": "3.42",
+                    "word": "أرنب",
+                    "start": "1.71"
+                }
+            ],
+            "nar_audio_en": "ALP_narr_R_p19.mp3",
+            "nar_audio_trans": "AR_sample_19.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "أرنب",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "rabbit",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "school",
+            "en_trans": "school_مدرسة",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_ALP_p20.png",
+            "page_no": "20",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "مدرسة_school",
+            "trans_text": "مدرسة",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_ALP\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 1,\n        \"ES\": 1,\n        \"ZH\": 1,\n        \"VI\": 1,\n        \"AR\": 1,\n        \"KO\": 1,\n        \"DA\": 1,\n        \"PS\": 1,\n        \"TL\": 1,\n        \"BN\": 1,\n        \"PT\": 1,\n        \"HK\": 1,\n        \"TW\": 1\n    },\n    \"title\": {\n        \"EN\": \"Alphabet Book\",\n        \"ES\": \"Alphabet Book\",\n        \"ZH\": \"Alphabet Book\",\n        \"VI\": \"Alphabet Book\",\n        \"AR\": \"Alphabet Book\",\n        \"KO\": \"Alphabet Book\",\n        \"DA\": \"Alphabet Book\",\n        \"PS\": \"Alphabet Book\",\n        \"TL\": \"Alphabet Book\",\n        \"BN\": \"Alphabet Book\",\n        \"PT\": \"Alphabet Book\",\n        \"HK\": \"Alphabet Book\",\n        \"TW\": \"Alphabet Book\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_20.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.6",
+                    "word": "school",
+                    "start": "0"
+                },
+                {
+                    "end": "1.6",
+                    "word": "school",
+                    "start": "1.6"
+                }
+            ],
+            "trans_vocab_audio": "AR_dictionary_20.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.996",
+                    "word": "مدرسة",
+                    "start": "0"
+                },
+                {
+                    "end": "4.0",
+                    "word": "مدرسة",
+                    "start": "2.0"
+                }
+            ],
+            "nar_audio_en": "ALP_narr_S_p20.mp3",
+            "nar_audio_trans": "AR_sample_20.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "مدرسة",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "school",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "turkey",
+            "en_trans": "turkey_ديك رومى",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_ALP_p21.png",
+            "page_no": "21",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "ديك رومى_turkey",
+            "trans_text": "ديك رومى",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_ALP\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 1,\n        \"ES\": 1,\n        \"ZH\": 1,\n        \"VI\": 1,\n        \"AR\": 1,\n        \"KO\": 1,\n        \"DA\": 1,\n        \"PS\": 1,\n        \"TL\": 1,\n        \"BN\": 1,\n        \"PT\": 1,\n        \"HK\": 1,\n        \"TW\": 1\n    },\n    \"title\": {\n        \"EN\": \"Alphabet Book\",\n        \"ES\": \"Alphabet Book\",\n        \"ZH\": \"Alphabet Book\",\n        \"VI\": \"Alphabet Book\",\n        \"AR\": \"Alphabet Book\",\n        \"KO\": \"Alphabet Book\",\n        \"DA\": \"Alphabet Book\",\n        \"PS\": \"Alphabet Book\",\n        \"TL\": \"Alphabet Book\",\n        \"BN\": \"Alphabet Book\",\n        \"PT\": \"Alphabet Book\",\n        \"HK\": \"Alphabet Book\",\n        \"TW\": \"Alphabet Book\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_21.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.48",
+                    "word": "turkey",
+                    "start": "0"
+                },
+                {
+                    "end": "1.48",
+                    "word": "turkey",
+                    "start": "1.48"
+                }
+            ],
+            "trans_vocab_audio": "AR_dictionary_21.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.02",
+                    "word": "ديك رومى",
+                    "start": "0"
+                },
+                {
+                    "end": "4.04",
+                    "word": "ديك رومى",
+                    "start": "2.02"
+                }
+            ],
+            "nar_audio_en": "ALP_narr_T_p21.mp3",
+            "nar_audio_trans": "AR_sample_21.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "ديك رومى",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "turkey",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "umbrella",
+            "en_trans": "umbrella_مظلة",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_ALP_p22.png",
+            "page_no": "22",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "مظلة_umbrella",
+            "trans_text": "مظلة",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_ALP\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 1,\n        \"ES\": 1,\n        \"ZH\": 1,\n        \"VI\": 1,\n        \"AR\": 1,\n        \"KO\": 1,\n        \"DA\": 1,\n        \"PS\": 1,\n        \"TL\": 1,\n        \"BN\": 1,\n        \"PT\": 1,\n        \"HK\": 1,\n        \"TW\": 1\n    },\n    \"title\": {\n        \"EN\": \"Alphabet Book\",\n        \"ES\": \"Alphabet Book\",\n        \"ZH\": \"Alphabet Book\",\n        \"VI\": \"Alphabet Book\",\n        \"AR\": \"Alphabet Book\",\n        \"KO\": \"Alphabet Book\",\n        \"DA\": \"Alphabet Book\",\n        \"PS\": \"Alphabet Book\",\n        \"TL\": \"Alphabet Book\",\n        \"BN\": \"Alphabet Book\",\n        \"PT\": \"Alphabet Book\",\n        \"HK\": \"Alphabet Book\",\n        \"TW\": \"Alphabet Book\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_22.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.85",
+                    "word": "umbrella",
+                    "start": "0"
+                },
+                {
+                    "end": "1.85",
+                    "word": "umbrella",
+                    "start": "1.85"
+                }
+            ],
+            "trans_vocab_audio": "AR_dictionary_22.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.092",
+                    "word": "مظلة",
+                    "start": "0"
+                },
+                {
+                    "end": "4.18",
+                    "word": "مظلة",
+                    "start": "2.09"
+                }
+            ],
+            "nar_audio_en": "ALP_narr_U_p22.mp3",
+            "nar_audio_trans": "AR_sample_22.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "مظلة",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "umbrella",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "violin",
+            "en_trans": "violin_كمان",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_ALP_p23.png",
+            "page_no": "23",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "كمان_violin",
+            "trans_text": "كمان",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_ALP\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 1,\n        \"ES\": 1,\n        \"ZH\": 1,\n        \"VI\": 1,\n        \"AR\": 1,\n        \"KO\": 1,\n        \"DA\": 1,\n        \"PS\": 1,\n        \"TL\": 1,\n        \"BN\": 1,\n        \"PT\": 1,\n        \"HK\": 1,\n        \"TW\": 1\n    },\n    \"title\": {\n        \"EN\": \"Alphabet Book\",\n        \"ES\": \"Alphabet Book\",\n        \"ZH\": \"Alphabet Book\",\n        \"VI\": \"Alphabet Book\",\n        \"AR\": \"Alphabet Book\",\n        \"KO\": \"Alphabet Book\",\n        \"DA\": \"Alphabet Book\",\n        \"PS\": \"Alphabet Book\",\n        \"TL\": \"Alphabet Book\",\n        \"BN\": \"Alphabet Book\",\n        \"PT\": \"Alphabet Book\",\n        \"HK\": \"Alphabet Book\",\n        \"TW\": \"Alphabet Book\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_23.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "2.04",
+                    "word": "violin",
+                    "start": "0"
+                },
+                {
+                    "end": "2.04",
+                    "word": "violin",
+                    "start": "2.04"
+                }
+            ],
+            "trans_vocab_audio": "AR_dictionary_23.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.732",
+                    "word": "كمان",
+                    "start": "0"
+                },
+                {
+                    "end": "3.46",
+                    "word": "كمان",
+                    "start": "1.73"
+                }
+            ],
+            "nar_audio_en": "ALP_narr_V_p23.mp3",
+            "nar_audio_trans": "AR_sample_23.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "كمان",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "violin",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "water",
+            "en_trans": "water_ماء",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_ALP_p24.png",
+            "page_no": "24",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "ماء_water",
+            "trans_text": "ماء",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_ALP\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 1,\n        \"ES\": 1,\n        \"ZH\": 1,\n        \"VI\": 1,\n        \"AR\": 1,\n        \"KO\": 1,\n        \"DA\": 1,\n        \"PS\": 1,\n        \"TL\": 1,\n        \"BN\": 1,\n        \"PT\": 1,\n        \"HK\": 1,\n        \"TW\": 1\n    },\n    \"title\": {\n        \"EN\": \"Alphabet Book\",\n        \"ES\": \"Alphabet Book\",\n        \"ZH\": \"Alphabet Book\",\n        \"VI\": \"Alphabet Book\",\n        \"AR\": \"Alphabet Book\",\n        \"KO\": \"Alphabet Book\",\n        \"DA\": \"Alphabet Book\",\n        \"PS\": \"Alphabet Book\",\n        \"TL\": \"Alphabet Book\",\n        \"BN\": \"Alphabet Book\",\n        \"PT\": \"Alphabet Book\",\n        \"HK\": \"Alphabet Book\",\n        \"TW\": \"Alphabet Book\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_24.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.69",
+                    "word": "water",
+                    "start": "0"
+                },
+                {
+                    "end": "1.69",
+                    "word": "water",
+                    "start": "1.69"
+                }
+            ],
+            "trans_vocab_audio": "AR_dictionary_24.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.828",
+                    "word": "ماء",
+                    "start": "0"
+                },
+                {
+                    "end": "3.66",
+                    "word": "ماء",
+                    "start": "1.83"
+                }
+            ],
+            "nar_audio_en": "ALP_narr_W_p24.mp3",
+            "nar_audio_trans": "AR_sample_24.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "ماء",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "water",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "xray",
+            "en_trans": "xray_أشعة سينية",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_ALP_p25.png",
+            "page_no": "25",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "أشعة سينية_xray",
+            "trans_text": "أشعة سينية",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_ALP\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 1,\n        \"ES\": 1,\n        \"ZH\": 1,\n        \"VI\": 1,\n        \"AR\": 1,\n        \"KO\": 1,\n        \"DA\": 1,\n        \"PS\": 1,\n        \"TL\": 1,\n        \"BN\": 1,\n        \"PT\": 1,\n        \"HK\": 1,\n        \"TW\": 1\n    },\n    \"title\": {\n        \"EN\": \"Alphabet Book\",\n        \"ES\": \"Alphabet Book\",\n        \"ZH\": \"Alphabet Book\",\n        \"VI\": \"Alphabet Book\",\n        \"AR\": \"Alphabet Book\",\n        \"KO\": \"Alphabet Book\",\n        \"DA\": \"Alphabet Book\",\n        \"PS\": \"Alphabet Book\",\n        \"TL\": \"Alphabet Book\",\n        \"BN\": \"Alphabet Book\",\n        \"PT\": \"Alphabet Book\",\n        \"HK\": \"Alphabet Book\",\n        \"TW\": \"Alphabet Book\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_25.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.7",
+                    "word": "xray",
+                    "start": "0"
+                },
+                {
+                    "end": "1.7",
+                    "word": "xray",
+                    "start": "1.7"
+                }
+            ],
+            "trans_vocab_audio": "AR_dictionary_25.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.98",
+                    "word": "أشعة سينية",
+                    "start": "0"
+                },
+                {
+                    "end": "5.96",
+                    "word": "أشعة سينية",
+                    "start": "2.98"
+                }
+            ],
+            "nar_audio_en": "ALP_narr_X_p25.mp3",
+            "nar_audio_trans": "AR_sample_25.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "أشعة سينية",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "xray",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "yarn",
+            "en_trans": "yarn_خيط",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_ALP_p26.png",
+            "page_no": "26",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "خيط_yarn",
+            "trans_text": "خيط",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_ALP\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 1,\n        \"ES\": 1,\n        \"ZH\": 1,\n        \"VI\": 1,\n        \"AR\": 1,\n        \"KO\": 1,\n        \"DA\": 1,\n        \"PS\": 1,\n        \"TL\": 1,\n        \"BN\": 1,\n        \"PT\": 1,\n        \"HK\": 1,\n        \"TW\": 1\n    },\n    \"title\": {\n        \"EN\": \"Alphabet Book\",\n        \"ES\": \"Alphabet Book\",\n        \"ZH\": \"Alphabet Book\",\n        \"VI\": \"Alphabet Book\",\n        \"AR\": \"Alphabet Book\",\n        \"KO\": \"Alphabet Book\",\n        \"DA\": \"Alphabet Book\",\n        \"PS\": \"Alphabet Book\",\n        \"TL\": \"Alphabet Book\",\n        \"BN\": \"Alphabet Book\",\n        \"PT\": \"Alphabet Book\",\n        \"HK\": \"Alphabet Book\",\n        \"TW\": \"Alphabet Book\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_26.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.67",
+                    "word": "yarn",
+                    "start": "0"
+                },
+                {
+                    "end": "1.67",
+                    "word": "yarn",
+                    "start": "1.67"
+                }
+            ],
+            "trans_vocab_audio": "AR_dictionary_26.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "1.804",
+                    "word": "خيط",
+                    "start": "0"
+                },
+                {
+                    "end": "3.6",
+                    "word": "خيط",
+                    "start": "1.8"
+                }
+            ],
+            "nar_audio_en": "ALP_narr_Y_p26.mp3",
+            "nar_audio_trans": "AR_sample_26.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "خيط",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "yarn",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "zebra",
+            "en_trans": "zebra_حمار وحشي",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_ALP_p27.png",
+            "page_no": "27",
+            "page_type": "normal",
+            "page_type_id": 2,
+            "sw_name": "Story",
+            "skill": "read",
+            "trans_answer": "",
+            "trans_en": "حمار وحشي_zebra",
+            "trans_text": "حمار وحشي",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_ALP\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 1,\n        \"ES\": 1,\n        \"ZH\": 1,\n        \"VI\": 1,\n        \"AR\": 1,\n        \"KO\": 1,\n        \"DA\": 1,\n        \"PS\": 1,\n        \"TL\": 1,\n        \"BN\": 1,\n        \"PT\": 1,\n        \"HK\": 1,\n        \"TW\": 1\n    },\n    \"title\": {\n        \"EN\": \"Alphabet Book\",\n        \"ES\": \"Alphabet Book\",\n        \"ZH\": \"Alphabet Book\",\n        \"VI\": \"Alphabet Book\",\n        \"AR\": \"Alphabet Book\",\n        \"KO\": \"Alphabet Book\",\n        \"DA\": \"Alphabet Book\",\n        \"PS\": \"Alphabet Book\",\n        \"TL\": \"Alphabet Book\",\n        \"BN\": \"Alphabet Book\",\n        \"PT\": \"Alphabet Book\",\n        \"HK\": \"Alphabet Book\",\n        \"TW\": \"Alphabet Book\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": null,
+            "credit_data_trans": null,
+            "en_vocab_audio": "EN_dictionary_27.mp3",
+            "en_vocab_timecode": [
+                {
+                    "end": "1.77",
+                    "word": "zebra",
+                    "start": "0"
+                },
+                {
+                    "end": "1.77",
+                    "word": "zebra",
+                    "start": "1.77"
+                }
+            ],
+            "trans_vocab_audio": "AR_dictionary_27.mp3",
+            "trans_vocab_timecode": [
+                {
+                    "end": "2.62",
+                    "word": "حمار وحشي",
+                    "start": "0"
+                },
+                {
+                    "end": "5.24",
+                    "word": "حمار وحشي",
+                    "start": "2.62"
+                }
+            ],
+            "nar_audio_en": "ALP_narr_Z_p27.mp3",
+            "nar_audio_trans": "AR_sample_27.mp3",
+            "nar_timecode_trans": [
+                {
+                    "word": "حمار وحشي",
+                    "narrator": 0
+                }
+            ],
+            "nar_timecode_en": [
+                {
+                    "word": "zebra",
+                    "narrator": 0
+                }
+            ]
+        },
+        {
+            "assessment": "None",
+            "crop": "0 0",
+            "en_text": "Cynthia Harrison Barbera||Translator||StoryWorld & Pixabay",
+            "en_trans": "",
+            "en_headline_id": 0,
+            "trans_headline_id": 0,
+            "image": "LB_ALP_cover.png",
+            "page_no": "28",
+            "page_type": "credits",
+            "page_type_id": 14,
+            "sw_name": "Credits",
+            "skill": null,
+            "trans_answer": "",
+            "trans_en": "",
+            "trans_text": "",
+            "en_headline_audio": null,
+            "trans_headline_audio": "",
+            "en_headline_text": null,
+            "trans_headline_text": null,
+            "book_type": "letterbook",
+            "book_meta": "{\n    \"set\": \"WB\",\n    \"path\": \"LB_ALP\",\n    \"content\": \"letter-book\",\n    \"wblevel\": {\n        \"EN\": 1,\n        \"ES\": 1,\n        \"ZH\": 1,\n        \"VI\": 1,\n        \"AR\": 1,\n        \"KO\": 1,\n        \"DA\": 1,\n        \"PS\": 1,\n        \"TL\": 1,\n        \"BN\": 1,\n        \"PT\": 1,\n        \"HK\": 1,\n        \"TW\": 1\n    },\n    \"title\": {\n        \"EN\": \"Alphabet Book\",\n        \"ES\": \"Alphabet Book\",\n        \"ZH\": \"Alphabet Book\",\n        \"VI\": \"Alphabet Book\",\n        \"AR\": \"Alphabet Book\",\n        \"KO\": \"Alphabet Book\",\n        \"DA\": \"Alphabet Book\",\n        \"PS\": \"Alphabet Book\",\n        \"TL\": \"Alphabet Book\",\n        \"BN\": \"Alphabet Book\",\n        \"PT\": \"Alphabet Book\",\n        \"HK\": \"Alphabet Book\",\n        \"TW\": \"Alphabet Book\"\n    },\n    \"level\": {\n        \"EN\": 0,\n        \"ES\": 0,\n        \"ZH\": 0,\n        \"VI\": 0,\n        \"AR\": 0,\n        \"KO\": 0,\n        \"DA\": 0,\n        \"PS\": 0,\n        \"TL\": 0,\n        \"BN\": 0,\n        \"PT\": 0,\n        \"HK\": 0,\n        \"TW\": 0\n    },\n    \"lexile\": {\n        \"EN\": -1,\n        \"ES\": -1,\n        \"ZH\": -1,\n        \"VI\": -1,\n        \"AR\": -1,\n        \"KO\": -1,\n        \"DA\": -1,\n        \"PS\": -1,\n        \"TL\": -1,\n        \"BN\": -1,\n        \"PT\": -1,\n        \"HK\": -1,\n        \"TW\": -1\n    },\n    \"fp\": \"A\",\n    \"versions\": [\n        \"EN-ES\",\n        \"EN-AR\",\n        \"EN-BN\",\n        \"EN-KO\",\n        \"EN-PT\",\n        \"EN-TL\",\n        \"EN-VI\",\n        \"EN-ZH\"\n    ],\n    \"about\": \"Dummy About \\n\",\n    \"genre\": [],\n    \"subjects\": [],\n    \"grammar\": [],\n    \"keywords\": [],\n    \"mine\": true,\n    \"display\": \"normal\",\n    \"materials\": {\n        \"proficiency\": {},\n        \"activity\": {\n            \"EN\": \"DUMMY.pdf\",\n            \"ES\": \"DUMMY.pdf\",\n            \"ZH\": \"DUMMY.pdf\"\n        },\n        \"lesson_plan\": {\n            \"EN\": \"DUMMY.pdf\"\n        }\n    }\n}",
+            "credit_data_en": [
+                "Written and Narrated by:Cynthia Harrison Barbera",
+                "Translated by:Sara Ragaie & Maysaa Kharat",
+                "Illustrated by:StoryWorld & Pixabay"
+            ],
+            "credit_data_trans": [
+                "كتب وروا:Cynthia Harrison Barbera",
+                "تمت ترجمته بواسطة:Sara Ragaie & Maysaa Kharat",
+                "مصورة من قبل:StoryWorld & Pixabay"
+            ],
+            "book_name": "LB_ALP"
+        }
+    ]
+}
